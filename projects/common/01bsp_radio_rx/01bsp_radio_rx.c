@@ -226,14 +226,15 @@ void cb_endFrame(PORT_TIMER_WIDTH timestamp) {
 
     if (app_vars.rxpk_len>LENGTH_PACKET){
         expectedFrame = FALSE;
-    } else {
-        for(i=1;i<10;i++){
-            if(app_vars.rxpk_buf[i]!=i){
-                expectedFrame = FALSE;
-                break;
-            }
-        }
     }
+    //else {
+    //    for(i=1;i<10;i++){
+    //        if(app_vars.rxpk_buf[i]!=i){
+    //            expectedFrame = FALSE;
+    //            break;
+    //        }
+    //    }
+    //}
 
     // read the packet number
     app_vars.rxpk_num = app_vars.rxpk_buf[0];
