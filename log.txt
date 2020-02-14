@@ -10199,3 +10199,2315 @@ len=22  num=214 rssi=-56  lqi=0   crc=0 freq_offset=32
 len=91  num=97  rssi=-83  lqi=0   crc=1 freq_offset=-6  
 frameCounter=2  , PDR=0%
 len=91  num=97  rssi=-85  lqi=0   crc=1 freq_offset=-6  
+len=91  num=97  rssi=-82  lqi=0   crc=0 freq_offset=-11 
+len=91  num=0   rssi=-82  lqi=0   crc=0 freq_offset=-18 
+frameCounter=1  , PDR=0%
+len=91  num=0   rssi=-82  lqi=0   crc=0 freq_offset=-2  
+len=91  num=0   rssi=-82  lqi=0   crc=0 freq_offset=11  
+len=91  num=0   rssi=-82  lqi=0   crc=0 freq_offset=6   
+len=91  num=0   rssi=-82  lqi=0   crc=0 freq_offset=-7  
+len=91  num=0   rssi=-82  lqi=0   crc=0 freq_offset=20  
+len=91  num=0   rssi=-82  lqi=0   crc=0 freq_offset=-21 
+len=91  num=0   rssi=-82  lqi=0   crc=0 freq_offset=-17 
+len=91  num=0   rssi=-82  lqi=0   crc=0 freq_offset=-16 
+len=29  num=39  rssi=-51  lqi=0   crc=0 freq_offset=4   
+len=29  num=0   rssi=-51  lqi=0   crc=0 freq_offset=7   
+frameCounter=10 , PDR=3%
+len=29  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-24 
+len=22  num=85  rssi=-52  lqi=0   crc=0 freq_offset=2   
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=31  
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-6  
+len=22  num=193 rssi=-52  lqi=0   crc=0 freq_offset=31  
+len=22  num=145 rssi=-53  lqi=0   crc=0 freq_offset=31  
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32  
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-17 
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-1  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=17  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-18 
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-5  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=5   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=19  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-19 
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=29  
+len=22  num=14  rssi=-52  lqi=0   crc=0 freq_offset=11  
+len=22  num=234 rssi=-52  lqi=0   crc=0 freq_offset=22  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+frameCounter=15 , PDR=5%
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=16  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=59  num=103 rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+frameCounter=4  , PDR=1%
+len=59  num=0   rssi=-52  lqi=0   crc=0 freq_offset=11  
+len=59  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-20 
+len=59  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-13 
+len=59  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-52  lqi=0   crc=0 freq_offset=3   
+len=59  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=244 rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=32  rssi=-52  lqi=0   crc=0 freq_offset=-8  
+frameCounter=12 , PDR=4%
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=13  
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-10 
+len=22  num=225 rssi=-52  lqi=0   crc=0 freq_offset=3   
+len=22  num=135 rssi=-52  lqi=0   crc=0 freq_offset=16  
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=21  
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=40  rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=2   
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-9  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=141 rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=34  rssi=-53  lqi=0   crc=0 freq_offset=32  
+frameCounter=6  , PDR=2%
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-21 
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-21 
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-7  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=1   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=5   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-1  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=21  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-23 
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=22  
+len=22  num=60  rssi=-51  lqi=0   crc=0 freq_offset=11  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=10 , PDR=3%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-23 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-27 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-26 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-15 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-6  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-10 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=11  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=29  
+len=22  num=83  rssi=-51  lqi=0   crc=0 freq_offset=26  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=10 , PDR=3%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-1  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=6   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-5  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-6  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-10 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-19 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-7  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-10 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=14  
+len=22  num=233 rssi=-51  lqi=0   crc=0 freq_offset=-16 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=5   
+frameCounter=19 , PDR=7%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=6   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=16  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-4  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=29  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=29  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=2   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-18 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=59  num=87  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=13 , PDR=5%
+len=59  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-33 
+len=22  num=212 rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=14  
+frameCounter=8  , PDR=3%
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=18  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=23  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-6  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=0   
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-25 
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=16  
+len=16  num=212 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=16  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-22 
+frameCounter=11 , PDR=4%
+len=16  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-21 
+len=16  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-8  
+len=22  num=171 rssi=-51  lqi=0   crc=0 freq_offset=-33 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=0   
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=1   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=5   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=11  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-15 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=18  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=30  
+len=22  num=53  rssi=-52  lqi=0   crc=0 freq_offset=2   
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-24 
+frameCounter=8  , PDR=3%
+len=109 num=23  rssi=-50  lqi=0   crc=0 freq_offset=6   
+len=104 num=103 rssi=-49  lqi=0   crc=0 freq_offset=4   
+len=104 num=0   rssi=-49  lqi=0   crc=0 freq_offset=15  
+frameCounter=3  , PDR=1%
+len=104 num=0   rssi=-49  lqi=0   crc=0 freq_offset=8   
+len=104 num=0   rssi=-49  lqi=0   crc=0 freq_offset=-10 
+len=104 num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=104 num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=104 num=0   rssi=-49  lqi=0   crc=0 freq_offset=-42 
+len=104 num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=84  rssi=-50  lqi=0   crc=0 freq_offset=29  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=8  , PDR=3%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=3   
+len=22  num=85  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=19  num=82  rssi=-51  lqi=0   crc=0 freq_offset=8   
+frameCounter=3  , PDR=1%
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=1  , PDR=0%
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-11 
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=2   
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=2   
+len=22  num=3   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=13  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-19 
+frameCounter=6  , PDR=2%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-22 
+len=22  num=237 rssi=-51  lqi=0   crc=0 freq_offset=-42 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-11 
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-2  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-3  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-3  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-20 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=12  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=23  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=18  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-8  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-13 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=59  num=103 rssi=-73  lqi=0   crc=0 freq_offset=-12 
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=32  
+frameCounter=15 , PDR=5%
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=5   
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=32  
+len=22  num=241 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=1   
+frameCounter=4  , PDR=1%
+len=22  num=254 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=2  , PDR=0%
+len=22  num=196 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-7  
+len=22  num=55  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=16  
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=14  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=26  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-6  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-6  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=18  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-8  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=1   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-30 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-11 
+len=22  num=32  rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-13 
+frameCounter=15 , PDR=5%
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-15 
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=4   
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-7  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-2  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=2   
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-20 
+len=22  num=253 rssi=-51  lqi=0   crc=0 freq_offset=-6  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=13  
+frameCounter=8  , PDR=3%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-12 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=26  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=11  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-22 
+len=22  num=255 rssi=-51  lqi=0   crc=0 freq_offset=-31 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-2  
+frameCounter=7  , PDR=2%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-14 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=5   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=18  
+len=22  num=197 rssi=-51  lqi=0   crc=0 freq_offset=6   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=23  
+frameCounter=5  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=10  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=0   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-30 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=13  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-19 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-16 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-12 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=7   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-3  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=0   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=3   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=6   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=5   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=17  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=20  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=30  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=237 rssi=-50  lqi=0   crc=0 freq_offset=24  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=31 , PDR=12%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=229 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-22 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-17 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-17 
+len=22  num=32  rssi=-50  lqi=0   crc=0 freq_offset=-10 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=23  
+frameCounter=6  , PDR=2%
+len=22  num=33  rssi=-51  lqi=0   crc=0 freq_offset=4   
+len=22  num=130 rssi=-50  lqi=0   crc=0 freq_offset=16  
+len=22  num=35  rssi=-51  lqi=0   crc=0 freq_offset=28  
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=6   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-8  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-26 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=40  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-21 
+frameCounter=8  , PDR=3%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-24 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-12 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-1  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=1   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-19 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=14  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=29  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-32 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=53  rssi=-51  lqi=0   crc=0 freq_offset=11  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-26 
+frameCounter=12 , PDR=4%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-16 
+len=22  num=255 rssi=-51  lqi=0   crc=0 freq_offset=-28 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=1   
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-1  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=8   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-14 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=4   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=27  
+len=22  num=199 rssi=-51  lqi=0   crc=0 freq_offset=8   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=15  
+frameCounter=7  , PDR=2%
+len=22  num=147 rssi=-51  lqi=0   crc=0 freq_offset=24  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-23 
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-4  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=86  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=6  , PDR=2%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-10 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=8   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=94  rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=19  num=115 rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=19  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-23 
+frameCounter=9  , PDR=3%
+len=19  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-12 
+len=19  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-4  
+len=19  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-35 
+len=19  num=0   rssi=-52  lqi=0   crc=0 freq_offset=16  
+len=19  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-35 
+len=19  num=0   rssi=-52  lqi=0   crc=0 freq_offset=22  
+len=19  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-16 
+len=19  num=224 rssi=-51  lqi=0   crc=0 freq_offset=-21 
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=9  , PDR=3%
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=4   
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-13 
+len=22  num=229 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=6  , PDR=2%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=241 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=17  rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-15 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-20 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=14  
+len=22  num=143 rssi=-51  lqi=0   crc=0 freq_offset=8   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-23 
+frameCounter=5  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-27 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=35  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-12 
+frameCounter=6  , PDR=2%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-3  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=37  rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-12 
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-16 
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-1  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-2  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=10  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=21  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=18  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-14 
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=30  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=28  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-3  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-9  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-18 
+len=22  num=143 rssi=-50  lqi=0   crc=0 freq_offset=-46 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-19 
+frameCounter=16 , PDR=6%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-8  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-10 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=18  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-2  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=11  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=23  
+len=22  num=88  rssi=-50  lqi=0   crc=0 freq_offset=-6  
+len=22  num=82  rssi=-49  lqi=0   crc=0 freq_offset=11  
+frameCounter=8  , PDR=3%
+len=22  num=89  rssi=-49  lqi=0   crc=0 freq_offset=10  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=86  rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-7  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-4  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-25 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-16 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-10 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-14 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-20 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-10 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-22 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=4   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=8   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-22 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=12  
+len=22  num=235 rssi=-49  lqi=0   crc=0 freq_offset=2   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=28  
+frameCounter=19 , PDR=7%
+len=22  num=235 rssi=-49  lqi=0   crc=0 freq_offset=6   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-13 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=49  rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=9  , PDR=3%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-25 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=137 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=7  , PDR=2%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=4   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-6  
+len=22  num=143 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=7  , PDR=2%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=19  num=102 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-8  
+frameCounter=3  , PDR=1%
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-2  
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-10 
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-17 
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=9   
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=19  
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-5  
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-27 
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-10 
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-24 
+len=22  num=154 rssi=-50  lqi=0   crc=0 freq_offset=-25 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-4  
+frameCounter=13 , PDR=5%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-7  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=11  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=17  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=0   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=7   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-23 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=17  
+len=22  num=80  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=19  num=82  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=22  
+frameCounter=19 , PDR=7%
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-18 
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-17 
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-12 
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-2  
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=24  
+len=22  num=232 rssi=-50  lqi=0   crc=0 freq_offset=-6  
+len=22  num=11  rssi=-50  lqi=0   crc=0 freq_offset=-1  
+frameCounter=7  , PDR=2%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=11  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=237 rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=5  , PDR=1%
+len=22  num=5   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=19  num=229 rssi=-50  lqi=0   crc=0 freq_offset=15  
+len=59  num=39  rssi=-73  lqi=0   crc=0 freq_offset=7   
+frameCounter=3  , PDR=1%
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=32  
+frameCounter=1  , PDR=0%
+len=22  num=240 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-26 
+len=22  num=202 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=56  rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=3  , PDR=1%
+len=22  num=100 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=19  
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=26  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-8  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=9   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=33  rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=7  , PDR=2%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=23  
+len=54  num=103 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=54  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-19 
+frameCounter=3  , PDR=1%
+len=22  num=171 rssi=-51  lqi=0   crc=0 freq_offset=-36 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=2   
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-12 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=10  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=15  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=23  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=21  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-25 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-25 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-28 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-14 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-7  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-48 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-10 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-2  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-4  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=4   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=14  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=14  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=4   
+len=22  num=85  rssi=-51  lqi=0   crc=0 freq_offset=5   
+len=22  num=87  rssi=-51  lqi=0   crc=0 freq_offset=10  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=22 , PDR=8%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-8  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-11 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=2   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-25 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-16 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-7  
+len=22  num=233 rssi=-52  lqi=0   crc=0 freq_offset=-22 
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=7   
+frameCounter=14 , PDR=5%
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-12 
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=21  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-24 
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-17 
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-48 
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=3   
+len=22  num=240 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=10 , PDR=3%
+len=22  num=17  rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-12 
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=222 rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-29 
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=18  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=14  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-4  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=22  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=4   
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=2   
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=35  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-5  
+frameCounter=10 , PDR=3%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=35  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=45  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=5  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-7  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-17 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-16 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-7  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-8  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-14 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=3   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-5  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=12  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-25 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=28  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=29  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-31 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-26 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-23 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-7  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-6  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-1  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=16  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=1   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=81  rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=25 , PDR=9%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-6  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=10  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-3  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-3  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=83  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=90  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-7  
+frameCounter=13 , PDR=5%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-20 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-2  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-14 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-14 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=1   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-1  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-4  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=5   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=8   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=17  
+len=22  num=235 rssi=-50  lqi=0   crc=0 freq_offset=-8  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-28 
+frameCounter=12 , PDR=4%
+len=16  num=226 rssi=-50  lqi=0   crc=0 freq_offset=-23 
+len=16  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-4  
+frameCounter=2  , PDR=0%
+len=16  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=16  num=0   rssi=-50  lqi=0   crc=0 freq_offset=12  
+len=16  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=16  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=7   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=6  , PDR=2%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-7  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-4  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-4  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=242 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-5  
+frameCounter=9  , PDR=3%
+len=22  num=20  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=129 rssi=-50  lqi=0   crc=0 freq_offset=-3  
+len=22  num=143 rssi=-50  lqi=0   crc=0 freq_offset=6   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-4  
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=30  
+len=22  num=34  rssi=-50  lqi=0   crc=0 freq_offset=18  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=40  rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-29 
+len=22  num=223 rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=147 rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-3  
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=40  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-18 
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-21 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-20 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=0   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=6   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=3   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=17  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=25  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=60  rssi=-51  lqi=0   crc=0 freq_offset=8   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-17 
+frameCounter=12 , PDR=4%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-17 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-21 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-30 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-10 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-12 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-40 
+len=22  num=147 rssi=-51  lqi=0   crc=0 freq_offset=-17 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-10 
+frameCounter=8  , PDR=3%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=22  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=17  
+len=19  num=91  rssi=-51  lqi=0   crc=0 freq_offset=-20 
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=4  , PDR=1%
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=95  rssi=-51  lqi=0   crc=0 freq_offset=26  
+len=22  num=81  rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-1  
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=85  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=90  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=6  , PDR=2%
+len=19  num=82  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=1   
+frameCounter=2  , PDR=0%
+len=22  num=90  rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-23 
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-14 
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-45 
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=6   
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=3   
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=8   
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-7  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=22  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=18  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=31  
+len=22  num=238 rssi=-51  lqi=0   crc=0 freq_offset=17  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=11 , PDR=4%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-9  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=231 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=7   
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-18 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=242 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=6  , PDR=2%
+len=22  num=20  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=196 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=19  
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=24  
+len=22  num=129 rssi=-51  lqi=0   crc=0 freq_offset=9   
+len=22  num=78  rssi=-51  lqi=0   crc=0 freq_offset=20  
+frameCounter=3  , PDR=1%
+len=16  num=136 rssi=-51  lqi=0   crc=0 freq_offset=-9  
+len=16  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=2  , PDR=0%
+len=16  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=16  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-14 
+len=16  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=16  num=0   rssi=-51  lqi=0   crc=0 freq_offset=5   
+len=16  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=16  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=16  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=16  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-28 
+len=19  num=135 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-19 
+frameCounter=10 , PDR=3%
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-16 
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=20  
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-4  
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-23 
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=4   
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=17  
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-18 
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=27  
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-30 
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-22 
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-26 
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=1   
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-10 
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-13 
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-5  
+len=22  num=155 rssi=-50  lqi=0   crc=0 freq_offset=-15 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-21 
+frameCounter=19 , PDR=7%
+len=22  num=88  rssi=-50  lqi=0   crc=0 freq_offset=-3  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=21  
+frameCounter=2  , PDR=0%
+len=22  num=85  rssi=-49  lqi=0   crc=0 freq_offset=6   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-16 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-22 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=86  rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=5  , PDR=1%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=29  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=5   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-9  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-28 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-12 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-1  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-12 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-1  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-1  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=16  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=12  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=17  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=23  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=23  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=226 rssi=-50  lqi=0   crc=0 freq_offset=15  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=19 , PDR=7%
+len=22  num=237 rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=31  num=231 rssi=-59  lqi=0   crc=0 freq_offset=28  
+frameCounter=2  , PDR=0%
+len=31  num=0   rssi=-59  lqi=0   crc=0 freq_offset=-8  
+frameCounter=1  , PDR=0%
+len=31  num=0   rssi=-59  lqi=0   crc=0 freq_offset=32  
+len=31  num=0   rssi=-59  lqi=0   crc=0 freq_offset=32  
+len=31  num=0   rssi=-59  lqi=0   crc=0 freq_offset=0   
+len=31  num=0   rssi=-59  lqi=0   crc=0 freq_offset=32  
+len=31  num=0   rssi=-59  lqi=0   crc=0 freq_offset=32  
+len=31  num=0   rssi=-59  lqi=0   crc=0 freq_offset=-48 
+len=31  num=0   rssi=-59  lqi=0   crc=0 freq_offset=32  
+len=22  num=211 rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-30 
+frameCounter=9  , PDR=3%
+len=22  num=224 rssi=-49  lqi=0   crc=0 freq_offset=-5  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=2  , PDR=0%
+len=22  num=136 rssi=-50  lqi=0   crc=0 freq_offset=21  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-9  
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=139 rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=69  rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-12 
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=17  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=33  rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-15 
+frameCounter=5  , PDR=1%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-22 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-20 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-20 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-7  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-9  
+len=22  num=171 rssi=-49  lqi=0   crc=0 freq_offset=-34 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-2  
+frameCounter=9  , PDR=3%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=2   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-34 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=9   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=15  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-1  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=26  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=27  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-7  
+len=22  num=53  rssi=-49  lqi=0   crc=0 freq_offset=10  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=10 , PDR=3%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-23 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=10  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-30 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-7  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-5  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=13  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=10  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-11 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=22  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=25  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=30  
+len=22  num=83  rssi=-49  lqi=0   crc=0 freq_offset=27  
+len=19  num=93  rssi=-49  lqi=0   crc=0 freq_offset=2   
+len=19  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=14 , PDR=5%
+len=19  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-20 
+len=19  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=19  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=19  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-37 
+len=22  num=85  rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-24 
+frameCounter=6  , PDR=2%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=29  
+len=22  num=90  rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-23 
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=115 rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-28 
+frameCounter=4  , PDR=1%
+len=22  num=237 rssi=-49  lqi=0   crc=0 freq_offset=-34 
+len=22  num=232 rssi=-49  lqi=0   crc=0 freq_offset=-26 
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-12 
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=18  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-3  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-11 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=10  
+len=22  num=235 rssi=-49  lqi=0   crc=0 freq_offset=-3  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=25  
+frameCounter=6  , PDR=2%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-19 
+len=22  num=238 rssi=-49  lqi=0   crc=0 freq_offset=17  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=229 rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-25 
+len=22  num=17  rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=221 rssi=-49  lqi=0   crc=0 freq_offset=10  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=4  , PDR=1%
+len=22  num=142 rssi=-50  lqi=0   crc=0 freq_offset=23  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=47  rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=19  num=144 rssi=-49  lqi=0   crc=0 freq_offset=29  
+len=22  num=36  rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=7  , PDR=2%
+len=22  num=34  rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=1  , PDR=0%
+len=22  num=34  rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-23 
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-20 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-14 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-6  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=2   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=11  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=12  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-26 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=29  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=1   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-24 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-5  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-27 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=3   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-11 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-13 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-2  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=0   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=11  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-6  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=24  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-9  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=83  rssi=-49  lqi=0   crc=0 freq_offset=23  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-14 
+frameCounter=24 , PDR=9%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-27 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-7  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=90  rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=10 , PDR=3%
+len=22  num=85  rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-26 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=2   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=6   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-9  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-11 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-28 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-26 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=11  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=27  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=25  
+len=22  num=235 rssi=-49  lqi=0   crc=0 freq_offset=6   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=12 , PDR=4%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-23 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-16 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=229 rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=13  
+frameCounter=7  , PDR=2%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-4  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=20  rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=52  rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=17  
+frameCounter=8  , PDR=3%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-5  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-8  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-7  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=19  num=141 rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=19  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=11 , PDR=4%
+len=19  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-22 
+len=19  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-5  
+len=19  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-15 
+len=19  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-10 
+len=22  num=171 rssi=-51  lqi=0   crc=0 freq_offset=-33 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=2   
+frameCounter=6  , PDR=2%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=3   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=13  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=11  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=14  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-11 
+len=22  num=53  rssi=-51  lqi=0   crc=0 freq_offset=11  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-29 
+frameCounter=7  , PDR=2%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-4  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-22 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-23 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=17  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-9  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-13 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-14 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-2  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-22 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=21  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=91  rssi=-50  lqi=0   crc=0 freq_offset=8   
+len=22  num=85  rssi=-51  lqi=0   crc=0 freq_offset=11  
+frameCounter=13 , PDR=5%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=5   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=85  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=6  , PDR=2%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-35 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-6  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-13 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-10 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-15 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=1   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=1   
+len=22  num=233 rssi=-51  lqi=0   crc=0 freq_offset=-17 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=13  
+frameCounter=11 , PDR=4%
+len=22  num=234 rssi=-51  lqi=0   crc=0 freq_offset=-10 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=30  
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-4  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=29  
+len=22  num=234 rssi=-51  lqi=0   crc=0 freq_offset=23  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-48 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-18 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-12 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=209 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=9  , PDR=3%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-28 
+len=22  num=211 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-32 
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=2   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=139 rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=5  , PDR=1%
+len=22  num=35  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=34  rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=2  , PDR=0%
+len=22  num=34  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-18 
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-3  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-21 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-26 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=20  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=17  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=28  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=27  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-22 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=0   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-29 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-16 
+len=22  num=152 rssi=-51  lqi=0   crc=0 freq_offset=-18 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-12 
+frameCounter=14 , PDR=5%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=8   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=17  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=19  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-23 
+len=22  num=91  rssi=-50  lqi=0   crc=0 freq_offset=7   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=2   
+frameCounter=6  , PDR=2%
+len=22  num=95  rssi=-51  lqi=0   crc=0 freq_offset=30  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-16 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-27 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=3   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=5   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-9  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=83  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-28 
+frameCounter=15 , PDR=5%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-15 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=0   
+len=22  num=232 rssi=-51  lqi=0   crc=0 freq_offset=-21 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-31 
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-2  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=9   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=12  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-9  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-2  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-38 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=237 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=1   
+frameCounter=9  , PDR=3%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=235 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-35 
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=59  num=87  rssi=-73  lqi=0   crc=0 freq_offset=-7  
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=32  
+frameCounter=4  , PDR=1%
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=11  
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=-16 
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=32  
+len=22  num=211 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=13  
+frameCounter=9  , PDR=3%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=23  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-3  
+len=22  num=34  rssi=-51  lqi=0   crc=0 freq_offset=25  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-8  
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-13 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-26 
+len=22  num=39  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=35  rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=6  , PDR=2%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=96  num=135 rssi=-73  lqi=0   crc=0 freq_offset=5   
+len=22  num=250 rssi=-51  lqi=0   crc=0 freq_offset=-48 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-17 
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-6  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=1   
+len=22  num=174 rssi=-51  lqi=0   crc=0 freq_offset=-7  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=9   
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-12 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=18  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=17  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-17 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=30  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-17 
+len=22  num=60  rssi=-51  lqi=0   crc=0 freq_offset=12  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-22 
+frameCounter=8  , PDR=3%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-24 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-23 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-20 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-1  
+len=22  num=251 rssi=-51  lqi=0   crc=0 freq_offset=-17 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-7  
+frameCounter=6  , PDR=2%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=12  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=3   
+len=22  num=152 rssi=-51  lqi=0   crc=0 freq_offset=-6  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=31  
+frameCounter=4  , PDR=1%
+len=22  num=87  rssi=-50  lqi=0   crc=0 freq_offset=11  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=2  , PDR=0%
+len=22  num=95  rssi=-50  lqi=0   crc=0 freq_offset=25  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-11 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-12 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=14  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-14 
+len=22  num=91  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-12 
+frameCounter=10 , PDR=3%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=3   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-24 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-27 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-15 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-18 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-14 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-9  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=2   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=1   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=12  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=21  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=25  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=237 rssi=-50  lqi=0   crc=0 freq_offset=29  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-28 
+frameCounter=16 , PDR=6%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=59  num=39  rssi=-73  lqi=0   crc=0 freq_offset=-14 
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=32  
+frameCounter=3  , PDR=1%
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=-16 
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=-4  
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=-18 
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=32  
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=-30 
+len=59  num=0   rssi=-73  lqi=0   crc=0 freq_offset=-2  
+len=22  num=69  rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=13 , PDR=5%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=8   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=47  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=47  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=33  rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=5  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-19 
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-13 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-8  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-8  
+len=22  num=174 rssi=-52  lqi=0   crc=0 freq_offset=-17 
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=0   
+frameCounter=5  , PDR=1%
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=16  
+len=22  num=55  rssi=-50  lqi=0   crc=0 freq_offset=2   
+len=22  num=55  rssi=-50  lqi=0   crc=0 freq_offset=1   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-12 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-26 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-14 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-9  
+len=22  num=159 rssi=-51  lqi=0   crc=0 freq_offset=-25 
+len=109 num=87  rssi=-51  lqi=0   crc=0 freq_offset=5   
+frameCounter=7  , PDR=2%
+len=109 num=0   rssi=-51  lqi=0   crc=0 freq_offset=25  
+frameCounter=1  , PDR=0%
+len=109 num=0   rssi=-51  lqi=0   crc=0 freq_offset=31  
+len=109 num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=109 num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=109 num=0   rssi=-51  lqi=0   crc=0 freq_offset=-8  
+len=109 num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=109 num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=109 num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=109 num=0   rssi=-51  lqi=0   crc=0 freq_offset=11  
+len=22  num=90  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-27 
+frameCounter=10 , PDR=3%
+len=22  num=94  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=83  rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-30 
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-13 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-13 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-17 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-9  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-9  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=19  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=2   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=4   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-22 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=15  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=1   
+len=22  num=235 rssi=-50  lqi=0   crc=0 freq_offset=3   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=28  
+frameCounter=13 , PDR=5%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-21 
+len=22  num=237 rssi=-50  lqi=0   crc=0 freq_offset=19  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=8   
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-9  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=240 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=7  , PDR=2%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-10 
+len=22  num=20  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=20  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-13 
+frameCounter=5  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=23  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=25  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=2   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-22 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=10  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=35  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=11 , PDR=4%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-4  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-6  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-30 
+len=22  num=219 rssi=-54  lqi=0   crc=0 freq_offset=-33 
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=-11 
+frameCounter=6  , PDR=2%
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=4   
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=-2  
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=-17 
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=-32 
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=25  
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=25  
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=0   
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=-23 
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=-28 
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=-11 
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=-19 
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=-23 
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=-10 
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=-11 
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=-3  
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=-2  
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=-1  
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=14  
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=10  
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=-5  
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=18  
+len=22  num=0   rssi=-54  lqi=0   crc=0 freq_offset=20  
+len=22  num=11  rssi=-50  lqi=0   crc=0 freq_offset=11  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-36 
+frameCounter=25 , PDR=9%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=84  rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-18 
+len=22  num=85  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=3  , PDR=1%
+len=22  num=90  rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+frameCounter=2  , PDR=0%
+len=16  num=84  rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=16  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-7  
+frameCounter=2  , PDR=0%
+len=22  num=87  rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-21 
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-19 
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-28 
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-9  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-13 
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=1   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=3   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-4  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=12  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=24  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-10 
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=11  
+len=22  num=231 rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-29 
+frameCounter=15 , PDR=5%
+len=27  num=87  rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=27  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32  
+frameCounter=2  , PDR=0%
+len=27  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=27  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=240 rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32  
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=211 rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32  
+frameCounter=5  , PDR=1%
+len=22  num=196 rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=22  
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=31  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=30  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-28 
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=35  rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-38 
+frameCounter=7  , PDR=2%
+len=22  num=40  rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32  
+frameCounter=2  , PDR=0%
+len=22  num=219 rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=19  num=139 rssi=-53  lqi=0   crc=0 freq_offset=22  
+frameCounter=2  , PDR=0%
+len=19  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32  
+frameCounter=1  , PDR=0%
+len=19  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=19  num=0   rssi=-53  lqi=0   crc=0 freq_offset=0   
+len=19  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=38  rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-18 
+frameCounter=5  , PDR=1%
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-48 
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-6  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=6   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=1   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-4  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=14  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=11  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=28  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=24  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-26 
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-20 
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-5  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-18 
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-19 
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-28 
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=5   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=12  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=14  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=13  
+len=22  num=147 rssi=-51  lqi=0   crc=0 freq_offset=-13 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=22  
+frameCounter=22 , PDR=8%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-1  
+len=22  num=95  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-3  
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=86  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-26 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=90  rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=6  , PDR=2%
+len=19  num=82  rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=48  num=82  rssi=-73  lqi=0   crc=0 freq_offset=-15 
+len=99  num=83  rssi=-73  lqi=0   crc=0 freq_offset=5   
+len=99  num=0   rssi=-73  lqi=0   crc=0 freq_offset=-27 
+frameCounter=4  , PDR=1%
+len=99  num=0   rssi=-73  lqi=0   crc=0 freq_offset=-16 
+len=99  num=0   rssi=-73  lqi=0   crc=0 freq_offset=-5  
+len=99  num=0   rssi=-73  lqi=0   crc=0 freq_offset=2   
+len=99  num=0   rssi=-73  lqi=0   crc=0 freq_offset=14  
+len=99  num=0   rssi=-73  lqi=0   crc=0 freq_offset=-41 
+len=99  num=0   rssi=-73  lqi=0   crc=0 freq_offset=22  
+len=99  num=0   rssi=-73  lqi=0   crc=0 freq_offset=32  
+len=99  num=0   rssi=-73  lqi=0   crc=0 freq_offset=-25 
+len=99  num=0   rssi=-73  lqi=0   crc=0 freq_offset=32  
+len=99  num=0   rssi=-73  lqi=0   crc=0 freq_offset=32  
+len=99  num=0   rssi=-73  lqi=0   crc=0 freq_offset=2   
+len=99  num=0   rssi=-73  lqi=0   crc=0 freq_offset=-5  
+len=22  num=229 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-7  
+frameCounter=14 , PDR=5%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-16 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=211 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=211 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=8  , PDR=3%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=20  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-24 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-11 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-18 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-12 
+len=22  num=132 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=14 , PDR=5%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-10 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-11 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=3   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-24 
+len=22  num=173 rssi=-49  lqi=0   crc=0 freq_offset=1   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=22  
+frameCounter=6  , PDR=2%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-10 
+len=22  num=167 rssi=-49  lqi=0   crc=0 freq_offset=6   
+len=22  num=55  rssi=-49  lqi=0   crc=0 freq_offset=8   
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-19 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-22 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-21 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=14  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-20 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-3  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-11 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=6   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-14 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-10 
+len=22  num=88  rssi=-49  lqi=0   crc=0 freq_offset=3   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=12 , PDR=4%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-19 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=5   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=3   
+len=19  num=82  rssi=-49  lqi=0   crc=0 freq_offset=25  
+len=19  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=8  , PDR=3%
+len=19  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-17 
+len=22  num=87  rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-27 
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-13 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-23 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-21 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-11 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-8  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-2  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-33 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=8   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=6   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=18  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=16  
+len=22  num=238 rssi=-50  lqi=0   crc=0 freq_offset=19  
+len=22  num=237 rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=13 , PDR=5%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-23 
+frameCounter=1  , PDR=0%
+len=22  num=11  rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-10 
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-19 
+len=22  num=240 rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=240 rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=6  , PDR=2%
+len=22  num=241 rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=19  num=201 rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=2  , PDR=0%
+len=22  num=142 rssi=-49  lqi=0   crc=0 freq_offset=0   
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-4  
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=5   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-9  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-1  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-24 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=2   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-3  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=2   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=3   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=12  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-13 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=22  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-10 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-35 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-25 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-4  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-30 
+len=29  num=39  rssi=-49  lqi=0   crc=0 freq_offset=10  
+len=29  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-25 
+frameCounter=27 , PDR=10%
+len=29  num=0   rssi=-49  lqi=0   crc=0 freq_offset=31  
+len=29  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=29  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=29  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-4  
+len=29  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=29  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=29  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-11 
+len=29  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=86  rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-9  
+frameCounter=10 , PDR=3%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=90  rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=31  num=82  rssi=-56  lqi=0   crc=0 freq_offset=32  
+len=31  num=0   rssi=-56  lqi=0   crc=0 freq_offset=-22 
+frameCounter=3  , PDR=1%
+len=31  num=0   rssi=-56  lqi=0   crc=0 freq_offset=-27 
+len=31  num=0   rssi=-56  lqi=0   crc=0 freq_offset=-13 
+len=22  num=232 rssi=-49  lqi=0   crc=0 freq_offset=-24 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-35 
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-31 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=8   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-22 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=26  
+len=22  num=235 rssi=-49  lqi=0   crc=0 freq_offset=-3  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=6  , PDR=2%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=17  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=26  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-14 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-20 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-22 
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-3  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=19  num=194 rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=19  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+frameCounter=15 , PDR=5%
+len=19  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32  
+len=19  num=0   rssi=-49  lqi=0   crc=0 freq_offset=2   
+len=19  num=0   rssi=-49  lqi=0   crc=0 freq_offset=18  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-12 
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-18 
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-16 
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-4  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-7  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-4  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=12  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=12  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=21  
+len=19  num=53  rssi=-51  lqi=0   crc=0 freq_offset=-16 
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=10 , PDR=3%
+len=22  num=53  rssi=-50  lqi=0   crc=0 freq_offset=10  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-20 
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-22 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-24 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=3   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-17 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-12 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-15 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=0   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-3  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-16 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=12  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=18  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=5   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=30  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=5   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=13  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-31 
+len=22  num=93  rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-15 
+frameCounter=23 , PDR=8%
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-18 
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-10 
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-15 
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-7  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=1   
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-1  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-2  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=7   
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-8  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=24  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=32  
+len=22  num=244 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=128 rssi=-51  lqi=0   crc=0 freq_offset=-12 
+frameCounter=22 , PDR=8%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=2   
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=28  
+len=31  num=143 rssi=-73  lqi=0   crc=0 freq_offset=-16 
+len=22  num=142 rssi=-51  lqi=0   crc=0 freq_offset=22  
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-43 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=1   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=16  
+len=22  num=129 rssi=-51  lqi=0   crc=0 freq_offset=32  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32  
+frameCounter=8  , PDR=3%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-21  p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=21   p0=0   p1=237 p2=255 p3=255 p4=255
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-4   p0=0   p1=252 p2=255 p3=255 p4=255
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=6    p0=0   p1=232 p2=255 p3=255 p4=255
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=13   p0=0   p1=244 p2=255 p3=255 p4=255
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=28   p0=0   p1=1   p2=255 p3=255 p4=255
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=27   p0=0   p1=32  p2=255 p3=255 p4=255
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-22  p0=0   p1=237 p2=255 p3=255 p4=255
+len=22  num=159 rssi=-50  lqi=0   crc=0 freq_offset=-24  p0=0   p1=7   p2=255 p3=255 p4=255
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=4    p0=0   p1=247 p2=255 p3=255 p4=255
+frameCounter=9  , PDR=3%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-14  p0=0   p1=4   p2=255 p3=255 p4=255
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32   p0=0   p1=23  p2=255 p3=255 p4=255
+len=22  num=81  rssi=-50  lqi=0   crc=0 freq_offset=32   p0=0   p1=32  p2=255 p3=255 p4=255
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-10  p0=0   p1=32  p2=255 p3=255 p4=255
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=15   p0=0   p1=32  p2=255 p3=255 p4=255
+len=22  num=11  rssi=-51  lqi=0   crc=0 freq_offset=32   p0=0   p1=32  p2=255 p3=255 p4=255
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=12   p0=0   p1=32  p2=255 p3=255 p4=255
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-21  p0=0   p1=235 p2=255 p3=255 p4=255
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-17  p0=0   p1=236 p2=255 p3=255 p4=255
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-3   p0=0   p1=246 p2=255 p3=255 p4=255
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=12   p0=0   p1=2   p2=255 p3=255 p4=255
+len=22  num=235 rssi=-50  lqi=0   crc=0 freq_offset=3    p0=0   p1=208 p2=255 p3=255 p4=255
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32   p0=0   p1=29  p2=255 p3=255 p4=255
+frameCounter=6  , PDR=2%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32   p0=0   p1=32  p2=255 p3=255 p4=255
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32   p0=0   p1=227 p2=255 p3=255 p4=255
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32   p0=0   p1=231 p2=255 p3=255 p4=255
+len=255 num=22  rssi=0    lqi=206 crc=0 freq_offset=0    p0=0   p1=0   p2=32  p3=255 p4=255
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32   p0=0   p1=32  p2=255 p3=255 p4=255
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32   p0=0   p1=32  p2=255 p3=255 p4=255
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32   p0=0   p1=21  p2=255 p3=255 p4=255
+len=22  num=132 rssi=-50  lqi=0   crc=0 freq_offset=26   p0=0   p1=20  p2=255 p3=255 p4=255
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32   p0=0   p1=32  p2=255 p3=255 p4=255
+frameCounter=8  , PDR=3%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32   p0=0   p1=227 p2=255 p3=255 p4=255
+len=22  num=35  rssi=-51  lqi=0   crc=0 freq_offset=32   p0=0   p1=241 p2=255 p3=255 p4=255
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=7    p0=0   p1=32  p2=255 p3=255 p4=255
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-14  p0=0   p1=32  p2=255 p3=255 p4=255
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=0   p1=32  p2=255 p3=255 p4=255
+len=0   num=0   rssi=0    lqi=0   crc=0 freq_offset=-15  p0=0   p1=0   p2=0   p3=0   p4=0  
+len=0   num=0   rssi=0    lqi=0   crc=0 freq_offset=-15  p0=0   p1=0   p2=0   p3=0   p4=0  
+len=0   num=0   rssi=0    lqi=0   crc=0 freq_offset=-26  p0=0   p1=0   p2=0   p3=0   p4=0  
+len=0   num=0   rssi=0    lqi=0   crc=0 freq_offset=-5   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=0   num=0   rssi=0    lqi=0   crc=0 freq_offset=2    p0=0   p1=0   p2=0   p3=0   p4=0  
+len=0   num=0   rssi=0    lqi=0   crc=0 freq_offset=8    p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=172 rssi=-51  lqi=0   crc=0 freq_offset=-2   p0=172 p1=251 p2=169 p3=252 p4=61 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-17  p0=0   p1=0   p2=0   p3=0   p4=0  
+frameCounter=7  , PDR=2%
+len=22  num=61  rssi=-50  lqi=0   crc=0 freq_offset=2    p0=61  p1=203 p2=169 p3=250 p4=97 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=18   p0=0   p1=0   p2=0   p3=0   p4=0  
+frameCounter=2  , PDR=0%
+len=22  num=55  rssi=-51  lqi=0   crc=0 freq_offset=11   p0=55  p1=251 p2=169 p3=108 p4=61 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-22  p0=0   p1=0   p2=0   p3=0   p4=0  
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=2    p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-23  p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=0    p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-22  p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-20  p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-10  p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=3    p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=14   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=14   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=2    p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=26   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=31  num=88  rssi=-60  lqi=0   crc=0 freq_offset=-4   p0=88  p1=251 p2=169 p3=101 p4=61 
+len=31  num=0   rssi=-60  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+frameCounter=14 , PDR=5%
+len=31  num=0   rssi=-60  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=31  num=0   rssi=-60  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=31  num=0   rssi=-60  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=31  num=0   rssi=-60  lqi=0   crc=0 freq_offset=6    p0=0   p1=0   p2=0   p3=0   p4=0  
+len=31  num=0   rssi=-60  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=31  num=0   rssi=-60  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=86  rssi=-51  lqi=0   crc=0 freq_offset=32   p0=86  p1=251 p2=217 p3=108 p4=61 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+frameCounter=8  , PDR=3%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-28  p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-20  p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=8    p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=237 rssi=-51  lqi=0   crc=0 freq_offset=-30  p0=237 p1=251 p2=169 p3=252 p4=61 
+len=22  num=237 rssi=-51  lqi=0   crc=0 freq_offset=-32  p0=237 p1=251 p2=169 p3=252 p4=61 
+len=22  num=232 rssi=-51  lqi=0   crc=0 freq_offset=-21  p0=232 p1=251 p2=169 p3=252 p4=61 
+frameCounter=8  , PDR=3%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=3    p0=0   p1=0   p2=0   p3=0   p4=0  
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=8    p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-37  p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=238 rssi=-51  lqi=0   crc=0 freq_offset=20   p0=238 p1=203 p2=169 p3=108 p4=49 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-7   p0=0   p1=0   p2=0   p3=0   p4=0  
+frameCounter=5  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=49  num=151 rssi=-73  lqi=0   crc=0 freq_offset=-13  p0=151 p1=159 p2=196 p3=92  p4=21 
+len=49  num=0   rssi=-73  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+frameCounter=4  , PDR=1%
+len=22  num=17  rssi=-51  lqi=0   crc=0 freq_offset=32   p0=17  p1=251 p2=169 p3=106 p4=61 
+len=22  num=193 rssi=-51  lqi=0   crc=0 freq_offset=32   p0=193 p1=251 p2=153 p3=108 p4=61 
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-7   p0=0   p1=0   p2=0   p3=0   p4=0  
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-21  p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=14   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-17  p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=35  rssi=-50  lqi=0   crc=0 freq_offset=32   p0=35  p1=251 p2=169 p3=106 p4=61 
+len=22  num=42  rssi=-50  lqi=0   crc=0 freq_offset=32   p0=42  p1=251 p2=169 p3=108 p4=61 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+frameCounter=11 , PDR=4%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=22   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-1   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32   p0=0   p1=0   p2=0   p3=0   p4=0  
+len=48  num=34  rssi=-51  lqi=0   crc=0 freq_offset=32   p0=34  p1=203 p2=169 p3=5   p4=61 
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-18  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-17  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-4   p0=    p1=    p2=    p3=    p4=   
+len=22  num=219 rssi=-49  lqi=0   crc=0 freq_offset=-30  p0=€   p1=˚   p2=Æ   p3=¸   p4==  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-37  p0=    p1=    p2=    p3=    p4=   
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=7    p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-40  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=18   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-30  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=27   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-19  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-21  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-12  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-18  p0=    p1=    p2=    p3=    p4=   
+len=22  num=158 rssi=-53  lqi=0   crc=0 freq_offset=-47  p0=û   p1=˚   p2=Æ   p3=¸   p4=?  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-21  p0=    p1=    p2=    p3=    p4=   
+frameCounter=11 , PDR=4%
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-7   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-6   p0=    p1=    p2=    p3=    p4=   
+len=22  num=148 rssi=-55  lqi=0   crc=0 freq_offset=-10  p0=î   p1=˚   p2=©   p3=¸   p4==  
+len=22  num=0   rssi=-55  lqi=0   crc=0 freq_offset=0    p0=    p1=    p2=    p3=    p4=   
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-55  lqi=0   crc=0 freq_offset=4    p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-55  lqi=0   crc=0 freq_offset=19   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-55  lqi=0   crc=0 freq_offset=24   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-55  lqi=0   crc=0 freq_offset=24   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-55  lqi=0   crc=0 freq_offset=7    p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-55  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-55  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-55  lqi=0   crc=0 freq_offset=-16  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-55  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-55  lqi=0   crc=0 freq_offset=-11  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-55  lqi=0   crc=0 freq_offset=-5   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-55  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-55  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-55  lqi=0   crc=0 freq_offset=-4   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-55  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=85  rssi=-51  lqi=0   crc=0 freq_offset=32   p0=U   p1=˚   p2=©   p3=l   p4=1  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+frameCounter=17 , PDR=6%
+len=19  num=90  rssi=-51  lqi=0   crc=0 freq_offset=32   p0=Z   p1=À   p2=©   p3=   p4==  
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-20  p0=    p1=    p2=    p3=    p4=   
+frameCounter=2  , PDR=0%
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-22  p0=    p1=    p2=    p3=    p4=   
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-16  p0=    p1=    p2=    p3=    p4=   
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-12  p0=    p1=    p2=    p3=    p4=   
+len=19  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-12  p0=    p1=    p2=    p3=    p4=   
+len=22  num=232 rssi=-51  lqi=0   crc=0 freq_offset=-22  p0=Ë   p1=À   p2=©   p3=¸   p4==  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-11  p0=    p1=    p2=    p3=    p4=   
+frameCounter=8  , PDR=3%
+len=22  num=233 rssi=-51  lqi=0   crc=0 freq_offset=-14  p0=È   p1=˚   p2=©   p3=¸   p4==  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=16   p0=    p1=    p2=    p3=    p4=   
+frameCounter=2  , PDR=0%
+len=31  num=235 rssi=-60  lqi=0   crc=0 freq_offset=-10  p0=Î   p1=À   p2=´   p3=l   p4==  
+len=31  num=0   rssi=-60  lqi=0   crc=0 freq_offset=-36  p0=    p1=    p2=    p3=    p4=   
+frameCounter=2  , PDR=0%
+len=22  num=238 rssi=-51  lqi=0   crc=0 freq_offset=18   p0=Ó   p1=˚   p2=©   p3=l   p4==  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-10  p0=    p1=    p2=    p3=    p4=   
+len=22  num=235 rssi=-51  lqi=0   crc=0 freq_offset=32   p0=Î   p1=À   p2=©   p3=l   p4=1  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-34  p0=    p1=    p2=    p3=    p4=   
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-10  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-17  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=11   p0=    p1=    p2=    p3=    p4=   
+len=54  num=202 rssi=-53  lqi=0   crc=0 freq_offset=32   p0=    p1=˚   p2=Ÿ   p3=e   p4=1  
+len=22  num=199 rssi=-53  lqi=0   crc=0 freq_offset=32   p0=«   p1=»   p2=Ÿ   p3=   p4=?  
+frameCounter=8  , PDR=3%
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=17   p0=    p1=    p2=    p3=    p4=   
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-10  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=1    p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-18  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-13  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=211 rssi=-51  lqi=0   crc=0 freq_offset=32   p0=”   p1=˚   p2=©   p3=   p4==  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-19  p0=    p1=    p2=    p3=    p4=   
+frameCounter=13 , PDR=5%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-19  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-16  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-6   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-1   p0=    p1=    p2=    p3=    p4=   
+len=22  num=171 rssi=-51  lqi=0   crc=0 freq_offset=-24  p0=´   p1=˚   p2=Æ   p3=¸   p4==  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=7    p0=    p1=    p2=    p3=    p4=   
+frameCounter=5  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=8    p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-26  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=24   p0=    p1=    p2=    p3=    p4=   
+len=22  num=61  rssi=-52  lqi=0   crc=0 freq_offset=-1   p0==   p1=˚   p2=©   p3=Ã   p4=a  
+len=22  num=55  rssi=-51  lqi=0   crc=0 freq_offset=9    p0=7   p1=˚   p2=Ÿ   p3=l   p4=1  
+frameCounter=5  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=28   p0=    p1=    p2=    p3=    p4=   
+frameCounter=1  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-31  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=53  rssi=-51  lqi=0   crc=0 freq_offset=15   p0=5   p1=˚   p2=©   p3=l   p4==  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-20  p0=    p1=    p2=    p3=    p4=   
+frameCounter=5  , PDR=1%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-20  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=12   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-19  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-17  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-9   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-10  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-28  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=6    p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=15   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-15  p0=    p1=    p2=    p3=    p4=   
+len=22  num=88  rssi=-51  lqi=0   crc=0 freq_offset=4    p0=X   p1=˚   p2=©   p3=l   p4==  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-9   p0=    p1=    p2=    p3=    p4=   
+frameCounter=12 , PDR=4%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=21   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=81  rssi=-51  lqi=0   crc=0 freq_offset=32   p0=Q   p1=˚   p2=Ÿ   p3=j   p4=a  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+frameCounter=7  , PDR=2%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-12  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-12  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-11  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=5    p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=1    p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-6   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=18   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=15   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=26   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-6   p0=    p1=    p2=    p3=    p4=   
+len=31  num=226 rssi=-60  lqi=0   crc=0 freq_offset=3    p0=‚   p1=À   p2=©   p3=l   p4==  
+len=31  num=0   rssi=-60  lqi=0   crc=0 freq_offset=-1   p0=    p1=    p2=    p3=    p4=   
+frameCounter=14 , PDR=5%
+len=31  num=0   rssi=-60  lqi=0   crc=0 freq_offset=-27  p0=    p1=    p2=    p3=    p4=   
+len=31  num=0   rssi=-60  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=31  num=0   rssi=-60  lqi=0   crc=0 freq_offset=1    p0=    p1=    p2=    p3=    p4=   
+len=31  num=0   rssi=-60  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=31  num=0   rssi=-60  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=31  num=0   rssi=-60  lqi=0   crc=0 freq_offset=-4   p0=    p1=    p2=    p3=    p4=   
+len=31  num=0   rssi=-60  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=31  num=0   rssi=-60  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=31  num=0   rssi=-60  lqi=0   crc=0 freq_offset=-25  p0=    p1=    p2=    p3=    p4=   
+len=22  num=242 rssi=-51  lqi=0   crc=0 freq_offset=32   p0=Ú   p1=˚   p2=Ÿ   p3=j   p4==  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+frameCounter=11 , PDR=4%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=18   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=27   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=28   p0=    p1=    p2=    p3=    p4=   
+len=22  num=132 rssi=-50  lqi=0   crc=0 freq_offset=23   p0=Ñ   p1=˚   p2=©   p3=l   p4=1  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+frameCounter=6  , PDR=2%
+len=22  num=131 rssi=-51  lqi=0   crc=0 freq_offset=32   p0=É   p1=À   p2=©   p3=j   p4==  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-11  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-4   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=159 rssi=-51  lqi=0   crc=0 freq_offset=32   p0=ü   p1=À   p2=©   p3=l   p4==  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+frameCounter=7  , PDR=2%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=33  rssi=-51  lqi=0   crc=0 freq_offset=32   p0=!   p1=˚   p2=Ÿ   p3=l   p4==  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=2    p0=    p1=    p2=    p3=    p4=   
+frameCounter=3  , PDR=1%
+len=22  num=34  rssi=-51  lqi=0   crc=0 freq_offset=32   p0="   p1=˚   p2=Ÿ   p3=e   p4==  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-15  p0=    p1=    p2=    p3=    p4=   
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-4   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-11  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=4    p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=2    p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-32  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=21   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-25  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-9   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-21  p0=    p1=    p2=    p3=    p4=   
+len=22  num=158 rssi=-52  lqi=0   crc=0 freq_offset=-46  p0=û   p1=˚   p2=Æ   p3=¸   p4=?  
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-22  p0=    p1=    p2=    p3=    p4=   
+frameCounter=13 , PDR=5%
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-9   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-12  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-10  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=0    p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=2    p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=18   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=-22  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-52  lqi=0   crc=0 freq_offset=20   p0=    p1=    p2=    p3=    p4=   
+len=22  num=88  rssi=-53  lqi=0   crc=0 freq_offset=-9   p0=X   p1=À   p2=©   p3=j   p4=a  
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-3   p0=    p1=    p2=    p3=    p4=   
+frameCounter=10 , PDR=3%
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=-6   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=15   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-53  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=90  rssi=-57  lqi=0   crc=0 freq_offset=32   p0=Z   p1=˚   p2=©   p3=l   p4==  
+len=22  num=0   rssi=-57  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+frameCounter=8  , PDR=3%
+len=22  num=0   rssi=-57  lqi=0   crc=0 freq_offset=-2   p0=    p1=    p2=    p3=    p4=   
+len=22  num=91  rssi=-57  lqi=0   crc=0 freq_offset=32   p0=[   p1=˚   p2=©   p3=l   p4==  
+len=22  num=0   rssi=-57  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-57  lqi=0   crc=0 freq_offset=-8   p0=    p1=    p2=    p3=    p4=   
+len=22  num=83  rssi=-59  lqi=0   crc=0 freq_offset=32   p0=S   p1=¯   p2=Ÿ   p3=e   p4=1  
+len=22  num=0   rssi=-59  lqi=0   crc=0 freq_offset=-15  p0=    p1=    p2=    p3=    p4=   
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-59  lqi=0   crc=0 freq_offset=24   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-59  lqi=0   crc=0 freq_offset=-14  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-59  lqi=0   crc=0 freq_offset=-15  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-59  lqi=0   crc=0 freq_offset=-6   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-59  lqi=0   crc=0 freq_offset=0    p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-59  lqi=0   crc=0 freq_offset=4    p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-59  lqi=0   crc=0 freq_offset=11   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-59  lqi=0   crc=0 freq_offset=-9   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-59  lqi=0   crc=0 freq_offset=17   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-59  lqi=0   crc=0 freq_offset=19   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-59  lqi=0   crc=0 freq_offset=-4   p0=    p1=    p2=    p3=    p4=   
+len=22  num=224 rssi=-51  lqi=0   crc=0 freq_offset=16   p0=‡   p1=˚   p2=©   p3=l   p4=1  
+len=22  num=237 rssi=-51  lqi=0   crc=0 freq_offset=25   p0=Ì   p1=À   p2=Ÿ   p3=l   p4=1  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+frameCounter=14 , PDR=5%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=21   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-16  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-8   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=4    p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=13   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-8   p0=    p1=    p2=    p3=    p4=   
+len=22  num=129 rssi=-51  lqi=0   crc=0 freq_offset=5    p0=Å   p1=À   p2=Ÿ   p3=j   p4=1  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+frameCounter=16 , PDR=6%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-9   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=40  rssi=-51  lqi=0   crc=0 freq_offset=32   p0=(   p1=˚   p2=©   p3=l   p4=1  
+len=22  num=43  rssi=-51  lqi=0   crc=0 freq_offset=32   p0=+   p1=˚   p2=©   p3=j   p4=1  
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+frameCounter=7  , PDR=2%
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=-14  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-51  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=34  rssi=-50  lqi=0   crc=0 freq_offset=32   p0="   p1=˚   p2=Ÿ   p3=j   p4=1  
+len=0   num=0   rssi=0    lqi=0   crc=0 freq_offset=-28  p0=    p1=    p2=    p3=    p4=   
+len=22  num=250 rssi=-49  lqi=0   crc=0 freq_offset=-38  p0=˙   p1=˚   p2=´   p3=¸   p4==  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=4    p0=    p1=    p2=    p3=    p4=   
+frameCounter=2  , PDR=0%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=4    p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-11  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=12   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=8    p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-10  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-20  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=28   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-30  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=143 rssi=-50  lqi=0   crc=0 freq_offset=-46  p0=è   p1=˚   p2=´   p3=¸   p4=?  
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=2    p0=    p1=    p2=    p3=    p4=   
+frameCounter=12 , PDR=4%
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-17  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=21   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-6   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-7   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-30  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=9    p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=-14  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=20   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-50  lqi=0   crc=0 freq_offset=19   p0=    p1=    p2=    p3=    p4=   
+len=22  num=83  rssi=-49  lqi=0   crc=0 freq_offset=-10  p0=S   p1=˚   p2=©   p3=¸   p4=a  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+frameCounter=11 , PDR=4%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-10  p0=    p1=    p2=    p3=    p4=   
+len=22  num=81  rssi=-49  lqi=0   crc=0 freq_offset=32   p0=Q   p1=˚   p2=©   p3=l   p4=1  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+frameCounter=4  , PDR=1%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+len=22  num=86  rssi=-49  lqi=0   crc=0 freq_offset=32   p0=V   p1=˚   p2=©   p3=   p4=1  
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   
+frameCounter=3  , PDR=1%
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=-17  p0=    p1=    p2=    p3=    p4=   
+len=22  num=0   rssi=-49  lqi=0   crc=0 freq_offset=32   p0=    p1=    p2=    p3=    p4=   

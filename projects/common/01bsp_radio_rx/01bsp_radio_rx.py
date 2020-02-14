@@ -48,7 +48,8 @@ motename = 'wsn430-35'
 serialport = 'COM10'
 mote = None
 
-t = raw_input('Are you running on IoT-LAB nodes ? (Y|N): ')
+#t = raw_input('Are you running on IoT-LAB nodes ? (Y|N): ')
+t = 'n'
 if  (not t.strip() or t.strip() in ['1','yes','y','Y']):
     t = raw_input('Enter mote name ? (e.g. {0}): '.format(motename))
     if t.strip():
@@ -63,7 +64,8 @@ if  (not t.strip() or t.strip() in ['1','yes','y','Y']):
         mote = mote_connect(serialport='/dev/ttyA8_M3', baudrate='500000')
     
 else:
-    t = raw_input('Enter serial port name (e.g. {0}): '.format(serialport))    
+    #t = raw_input('Enter serial port name (e.g. {0}): '.format(serialport))    
+    t = '/dev/ttyUSB0'    
     if t.strip():
         serialport = t.strip()
     mote = mote_connect(serialport=serialport)
@@ -75,6 +77,7 @@ rawFrame_decoded = []
 previousFrame    = 0
 frameCounter     = 0
 xonxoffEscaping  = False
+pkt_size = 5
 
 while True:
     
@@ -85,7 +88,7 @@ while True:
         byte  = mote.read(1)
         rawFrame += [ord(byte)]
     
-    if rawFrame[-3:]==[0xff]*3 and len(rawFrame)>=9:
+    if rawFrame[-3:]==[0xff]*3 and len(rawFrame)>=9 + pkt_size:
         
         for byte in rawFrame:
             if byte==XONXOFF_ESCAPE:
@@ -97,8 +100,8 @@ while True:
                 elif byte!=XON and byte!=XOFF:
                     rawFrame_decoded += [byte]
         
-        (rxpk_len,rxpk_num,rxpk_rssi,rxpk_lqi,rxpk_crc, rxpk_freq_offset) = \
-            struct.unpack('>BBbBBb', ''.join([chr(b) for b in rawFrame_decoded[-9:-3]]))
+        (p0,p1,p2,p3,p4,rxpk_len,rxpk_num,rxpk_rssi,rxpk_lqi,rxpk_crc, rxpk_freq_offset) = \
+            struct.unpack('>BBBBBBBbBBb', ''.join([chr(b) for b in rawFrame_decoded[-9 - pkt_size:-3]]))
             
         # debug info
         output = 'len={0:<3} num={1:<3} rssi={2:<4} lqi={3:<3} crc={4} freq_offset={5:<4}'.format(
@@ -108,6 +111,14 @@ while True:
             rxpk_lqi,
             rxpk_crc,
             rxpk_freq_offset
+        )
+
+        output += ' p0={0:<3} p1={1:<3} p2={2:<3} p3={3:<3} p4={4:<3}'.format(
+            chr(p0),
+            chr(p1),
+            chr(p2),
+            chr(p3),
+            chr(p4)
         )
         
         print output
