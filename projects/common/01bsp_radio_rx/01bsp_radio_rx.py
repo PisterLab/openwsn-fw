@@ -77,7 +77,8 @@ rawFrame_decoded = []
 previousFrame    = 0
 frameCounter     = 0
 xonxoffEscaping  = False
-pkt_size = 5
+
+packet_size = 12; # default 9
 
 while True:
     
@@ -88,50 +89,97 @@ while True:
         byte  = mote.read(1)
         rawFrame += [ord(byte)]
     
-    if rawFrame[-3:]==[0xff]*3 and len(rawFrame)>=9 + pkt_size:
+    if rawFrame[-3:]==[0xff]*3 and len(rawFrame)>=packet_size:
         
-        for byte in rawFrame:
-            if byte==XONXOFF_ESCAPE:
-                xonxoffEscaping = True
-            else:
-                if xonxoffEscaping==True:
-                    rawFrame_decoded += [byte^XONXOFF_MASK]
-                    xonxoffEscaping=False
-                elif byte!=XON and byte!=XOFF:
-                    rawFrame_decoded += [byte]
+        #
+        #for byte in rawFrame:
+        #    if byte==XONXOFF_ESCAPE:
+        #        xonxoffEscaping = True
+        #    else:
+        #        if xonxoffEscaping==True:
+        #            rawFrame_decoded += [byte^XONXOFF_MASK]
+        #            xonxoffEscaping=False
+        #        elif byte!=XON and byte!=XOFF:
+        #            rawFrame_decoded += [byte]
+
+        rawFrame_decoded = rawFrame
         
-        (p0,p1,p2,p3,p4,rxpk_len,rxpk_num,rxpk_rssi,rxpk_lqi,rxpk_crc, rxpk_freq_offset) = \
-            struct.unpack('>BBBBBBBbBBb', ''.join([chr(b) for b in rawFrame_decoded[-9 - pkt_size:-3]]))
+        #(rxpk_len,rxpk_num,rxpk_rssi,rxpk_lqi,rxpk_crc, rxpk_freq_offset) = \
+        #    struct.unpack('>BBbBBb', ''.join([chr(b) for b in rawFrame_decoded[-9 :-3]]))
+
+        (c, m, f, rxpk_len,rxpk_num,rxpk_rssi,rxpk_lqi,rxpk_crc, rxpk_freq_offset) = \
+            struct.unpack('>BBBBBbBBb', ''.join([chr(b) for b in rawFrame_decoded[-packet_size :-3]]))
+
+        #print(rawFrame_decoded[-packet_size :-3])
+
+        if rxpk_num == 0 or rxpk_len != 22:
+            continue
+        if c == 1 and m ==2 and f == 3:
+            continue;
+
+        #(rxpk_len,rxpk_num,coarse,mid,fine, rxpk_freq_offset) = \
+        #    struct.unpack('>BBBBBb', ''.join([chr(b) for b in rawFrame_decoded[-9 :-3]]))
+
+        #rxpk_buf = rawFrame_decoded[-9-rxpk_len:-9]
+        #unpacked_buf = struct.unpack('>' + "B"*rxpk_len, ''.join([chr(b) for b in rxpk_buf]))
+        #print unpacked_buf
             
         # debug info
-        output = 'len={0:<3} num={1:<3} rssi={2:<4} lqi={3:<3} crc={4} freq_offset={5:<4}'.format(
+        #output = 'len={0:<3} num={1:<3} rssi={2:<4} lqi={3:<3} crc={4} freq_offset={5:<4}'.format(
+        #    rxpk_len,
+        #    rxpk_num,
+        #    rxpk_rssi,
+        #    rxpk_lqi,
+        #    rxpk_crc,
+        #    rxpk_freq_offset
+        #)
+
+        output = 'len={0:<3} num={1:<3} rssi={2:<4} lqi={3:<3} crc={4} freq_offset={5:<4} c={6:<4} m={7:<4} f={8:<4}'.format(
             rxpk_len,
             rxpk_num,
             rxpk_rssi,
             rxpk_lqi,
             rxpk_crc,
-            rxpk_freq_offset
+            rxpk_freq_offset,
+            c,
+            m,
+            f
         )
 
-        output += ' p0={0:<3} p1={1:<3} p2={2:<3} p3={3:<3} p4={4:<3}'.format(
-            chr(p0),
-            chr(p1),
-            chr(p2),
-            chr(p3),
-            chr(p4)
-        )
-        
+        def process_string_msg(packet_lst):
+            message_lst = [chr(x) for x in packet_lst[1:]] 
+            return "".join(message_lst)
+
+        def process_freq_msg(packet_lst):
+            if len(packet_lst) < 4:
+                return "INVALID PACKET"
+            
+            coarse, mid, fine = packet_lst[1], packet_lst[2], packet_lst[3]
+            return "coarse:" + str(coarse) + " mid: " + str(mid) + " fine: " + str(fine)
+            
+        #print "coarse:" + str(coarse) + " mid: " + str(mid) + " fine: " + str(fine)
+
         print output
-        
+        #print ','.join(rxpk_buf)
+        #print rxpk_buf
+        #print rawFrame
+
+
+        #message = process_string_msg(rxpk_buf)
+        #message = process_freq_msg(rxpk_buf)
+    
+        #print message + '\t' + output       
+
         with open('log.txt','a') as f:
             f.write(output+'\n')
         
         if rxpk_len>127:
-            print "ERROR: frame too long.\a"
+            #print "ERROR: frame too long.\a"
+            a = 0 # just placeholder
         else:
             if previousFrame>rxpk_num:
                 output = "frameCounter={0:<3}, PDR={1}%".format(frameCounter, frameCounter*100/MAX_NUM_PACKET)
-                print output
+                #print output
                 frameCounter  = 0
                 with open('log.txt','a') as f:
                     f.write(output+'\n')
