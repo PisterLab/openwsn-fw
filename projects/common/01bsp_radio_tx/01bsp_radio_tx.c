@@ -23,7 +23,7 @@ remainder of the packet contains an incrementing bytes.
 
 #define LENGTH_PACKET   20+LENGTH_CRC // maximum length is 127 bytes
 #define CHANNEL         11            // 24ghz: 11 = 2.405GHz, subghz: 11 = 865.325 in  FSK operating mode #1
-#define TIMER_PERIOD    (32768>>8)    // (32768>>1) = 500ms @ 32kHz // 32768>>8 = 4 ms
+#define TIMER_PERIOD    (32768>>9)    // (32768>>1) = 500ms @ 32kHz // 32768>>8 = 4 ms
 
 //=========================== variables =======================================
 
@@ -79,11 +79,11 @@ int mote_main(void) {
     sctimer_enable();
     while(1) {
 
-        // wait for timer to elapse
-        app_vars.txpk_txNow = 0;
-        while (app_vars.txpk_txNow==0) {
-            board_sleep();
-        }
+        // wait for timer to elapse (removed any delay)
+        //app_vars.txpk_txNow = 0;
+        //while (app_vars.txpk_txNow==0) {
+        //    board_sleep();
+        //}
         radio_setFrequency(CHANNEL);
         // led
         leds_error_toggle();
