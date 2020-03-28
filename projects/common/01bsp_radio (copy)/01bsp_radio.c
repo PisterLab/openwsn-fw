@@ -31,7 +31,7 @@ end of frame event), it will turn on its error LED.
 #define TIMER_PERIOD    (0xffff>>4)    ///< 0xffff = 2s@32kHz
 #define ID              0x99           ///< byte sent in the packets
 
-uint8_t stringToSend[]  = "                                  \n";
+uint8_t stringToSend[]  = "+002 Ptest.24.00.12.-010\n";
 
 //=========================== variables =======================================
 
@@ -78,9 +78,6 @@ void     cb_timer(void);
 
 void     cb_uart_tx_done(void);
 uint8_t  cb_uart_rx(void);
-void    send_uart(char *msg);
-void    send_uart_len(char *msg, uint8_t len);
-void send_packet(void);
 
 //=========================== main ============================================
 
@@ -93,7 +90,6 @@ int mote_main(void) {
     uint8_t freq_offset;
     uint8_t sign;
     uint8_t read;
-    char output[30];
 
     // clear local variables
     memset(&app_vars,0,sizeof(app_vars_t));
@@ -132,7 +128,7 @@ int mote_main(void) {
 
     // start by a transmit
     app_vars.flags |= APP_FLAG_TIMER;
-    
+
     while (1) {
 
         // sleep while waiting for at least one of the flags to be set
@@ -158,7 +154,6 @@ int mote_main(void) {
                         break;
                     case APP_STATE_TX:
                         // started sending a packet
-                        //send_uart("tx start frame");
 
                         // led
                         leds_sync_on();
@@ -177,7 +172,6 @@ int mote_main(void) {
                 switch (app_vars.state) {
 
                     case APP_STATE_RX:
-                        
 
                         // done receiving a packet
                         app_vars.packet_len = sizeof(app_vars.packet);
@@ -200,20 +194,46 @@ int mote_main(void) {
                             read = freq_offset;
                         }
 
-                        for (i = 0; i < 20; i++) {
-                            output[i] = ' ';
+                        i = 0;
+                        if (sign) {
+                            stringToSend[i++] = '-';
+                        } else {
+                            stringToSend[i++] = '+';
                         }
-                        output[i++] = (app_vars.packet_len / 10) + '0';
-                        output[i++] = (app_vars.packet_len % 10) + '0';
+                        stringToSend[i++] = '0'+read/100;
+                        stringToSend[i++] = '0'+read/10;
+                        stringToSend[i++] = '0'+read%10;
+                        stringToSend[i++] = ' ';
 
+                        stringToSend[i++] = 'P';
+                        memcpy(&stringToSend[i],&app_vars.packet[0],14);
+                        i += 14;
 
+                        sign = (app_vars.rxpk_rssi & 0x80) >> 7;
+                        if (sign){
+                            read = 0xff - (uint8_t)(app_vars.rxpk_rssi) + 1;
+                        } else {
+                            read = app_vars.rxpk_rssi;
+                        }
 
-                        //send_uart_len(output, 30);
+                        if (sign) {
+                            stringToSend[i++] = '-';
+                        } else {
+                            stringToSend[i++] = '+';
+                        }
+                        stringToSend[i++] = '0'+read/100;
+                        stringToSend[i++] = '0'+read/10;
+                        stringToSend[i++] = '0'+read%10;
 
-                        app_vars.state = APP_STATE_TX;
-                        send_uart("received!");
-                        send_uart("tx continuous");
-                        radio_rfOff();
+                        stringToSend[sizeof(stringToSend)-2] = '\r';
+                        stringToSend[sizeof(stringToSend)-1] = '\n';
+
+                        // send string over UART
+                        if (app_vars.uartDone == 1) {
+                            app_vars.uartDone              = 0;
+                            app_vars.uart_lastTxByteIndex  = 0;
+                            uart_writeByte(stringToSend[app_vars.uart_lastTxByteIndex]);
+                        }
 
                         // led
                         leds_error_off();
@@ -222,9 +242,8 @@ int mote_main(void) {
                         // done sending a packet
 
                         // switch to RX mode
-                        //radio_rxEnable();
-                        //app_vars.state = APP_STATE_RX;
-                        send_packet();
+                        radio_rxEnable();
+                        app_vars.state = APP_STATE_RX;
 
                         // led
                         leds_sync_off();
@@ -240,14 +259,27 @@ int mote_main(void) {
                 // timer fired
 
                 if (app_vars.state==APP_STATE_RX) {
-                    send_uart("rx waiting");
-                    radio_rxNow();
-                }
+                    // stop listening
+                    radio_rfOff();
 
-                if (app_vars.state==APP_STATE_TX) {
-                    send_packet();
+                    // prepare packet
+                    app_vars.packet_len = sizeof(app_vars.packet);
+                    i = 0;
+                    app_vars.packet[i++] = 't';
+                    app_vars.packet[i++] = 'e';
+                    app_vars.packet[i++] = 's';
+                    app_vars.packet[i++] = 't';
+                    app_vars.packet[i++] = CHANNEL;
+                    while (i<app_vars.packet_len) {
+                        app_vars.packet[i++] = ID;
+                    }
 
-                    
+                    // start transmitting packet
+                    radio_loadPacket(app_vars.packet,LEN_PKT_TO_SEND);
+                    radio_txEnable();
+                    radio_txNow();
+
+                    app_vars.state = APP_STATE_TX;
                 }
 
                 // clear flag
@@ -255,54 +287,6 @@ int mote_main(void) {
             }
         }
     }
-}
-
-void send_packet() {
-    int i;
-    // prepare packet
-    app_vars.packet_len = sizeof(app_vars.packet);
-    i = 0;
-    app_vars.packet[i++] = 5;
-    app_vars.packet[i++] = 23;
-    app_vars.packet[i++] = 15;
-    app_vars.packet[i++] = 9;
-    app_vars.packet[i++] = CHANNEL;
-    while (i<app_vars.packet_len) {
-        app_vars.packet[i++] = ID;
-    }
-
-    // start transmitting packet
-    radio_loadPacket(app_vars.packet,LEN_PKT_TO_SEND);
-    radio_txEnable();
-    radio_txNow();
-
-}
-
-void send_uart(char *msg) {
-    send_uart_len(msg, strlen(msg));
-}
-
-void send_uart_len(char *msg, uint8_t len) {
-    uint8_t i;
-    uint8_t smaller_len = len < sizeof(stringToSend) ? len : sizeof(stringToSend);    
-
-    while (app_vars.uartDone == 0);
-
-    for (i = 0; i < sizeof(stringToSend); i++) {
-        stringToSend[i] = ' ';
-    }
-
-    for (i = 0; i < strlen(msg); i++) {
-        stringToSend[i] = msg[i];
-    }
-
-
-    stringToSend[sizeof(stringToSend)-2] = '\r';
-    stringToSend[sizeof(stringToSend)-1] = '\n';
-
-    app_vars.uartDone              = 0;
-    app_vars.uart_lastTxByteIndex  = 0;
-    uart_writeByte(stringToSend[app_vars.uart_lastTxByteIndex]);
 }
 
 //=========================== callbacks =======================================
