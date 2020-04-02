@@ -114,8 +114,6 @@ while True:
 
         if rxpk_num == 0 or rxpk_len != 22:
             continue
-        if c == 1 and m ==2 and f == 3:
-            continue;
 
         #(rxpk_len,rxpk_num,coarse,mid,fine, rxpk_freq_offset) = \
         #    struct.unpack('>BBBBBb', ''.join([chr(b) for b in rawFrame_decoded[-9 :-3]]))
