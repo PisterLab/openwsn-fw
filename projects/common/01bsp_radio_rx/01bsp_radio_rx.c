@@ -78,7 +78,7 @@ len=17  num=84  rssi=-81  lqi=108 crc=1
 #define OPENMOTE_PKT_LEN     22
 //#define LENGTH_SERIAL_FRAME  14              // length of the serial frame
 //#define LENGTH_SERIAL_FRAME  14+OPENMOTE_PKT_LEN              // length of the serial frame
-#define LENGTH_SERIAL_FRAME  17              // length of the serial frame
+#define LENGTH_SERIAL_FRAME  OPENMOTE_PKT_LEN + 5 + 3              // length of the serial frame = 22 (pkt) + 5 (additional pkt metadata) + 3 (closing flags)
 
 //=========================== variables =======================================
 
@@ -174,12 +174,11 @@ int mote_main(void) {
         //    app_vars.uart_txFrame[i] = app_vars.rxpk_buf[i];
         //}
 
-        app_vars.uart_txFrame[i++] = app_vars.rxpk_buf[1];
-        app_vars.uart_txFrame[i++] = app_vars.rxpk_buf[2];
-        app_vars.uart_txFrame[i++] = app_vars.rxpk_buf[3];
+        for (i = 0; i < OPENMOTE_PKT_LEN; i++) {
+            app_vars.uart_txFrame[i] = app_vars.rxpk_buf[i];
+        }
 
         app_vars.uart_txFrame[i++] = app_vars.rxpk_len;  // packet length
-        app_vars.uart_txFrame[i++] = app_vars.rxpk_num;  // packet number
         app_vars.uart_txFrame[i++] = app_vars.rxpk_rssi; // RSSI
         app_vars.uart_txFrame[i++] = app_vars.rxpk_lqi;  // LQI
         app_vars.uart_txFrame[i++] = app_vars.rxpk_crc;  // CRC
@@ -187,17 +186,6 @@ int mote_main(void) {
         app_vars.uart_txFrame[i++] = 0xff;               // closing flag
         app_vars.uart_txFrame[i++] = 0xff;               // closing flag
         app_vars.uart_txFrame[i++] = 0xff;               // closing flag
-
-
-        //app_vars.uart_txFrame[i++] = app_vars.rxpk_len;  // packet length
-        //app_vars.uart_txFrame[i++] = app_vars.rxpk_num;  // packet number
-        //app_vars.uart_txFrame[i++] = app_vars.rxpk_buf[1]; // RSSI
-        //app_vars.uart_txFrame[i++] = app_vars.rxpk_buf[2];  // LQI
-        //app_vars.uart_txFrame[i++] = app_vars.rxpk_buf[3];  // CRC
-        //app_vars.uart_txFrame[i++] = app_vars.rxpk_freq_offset; // freq_offset
-        //app_vars.uart_txFrame[i++] = 0xff;               // closing flag
-        //app_vars.uart_txFrame[i++] = 0xff;               // closing flag
-        //app_vars.uart_txFrame[i++] = 0xff;               // closing flag
 
         app_vars.uart_done          = 0;
         app_vars.uart_lastTxByte    = 0;
@@ -261,9 +249,6 @@ void cb_endFrame(PORT_TIMER_WIDTH timestamp) {
     //        }
     //    }
     //}
-
-    // read the packet number
-    app_vars.rxpk_num = app_vars.rxpk_buf[0];
 
     // toggle led if the frame is expected
     if (expectedFrame){
