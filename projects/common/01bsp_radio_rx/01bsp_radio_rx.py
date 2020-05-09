@@ -72,15 +72,17 @@ else:
 
 #============================ read ============================================
 
+CRC_LEN = 2
+
 rawFrame         = []
 rawFrame_decoded = []
 previousFrame    = 0
 frameCounter     = 0
 xonxoffEscaping  = False
 
-scum_pkt_size = 22
+scum_pkt_size = 4 + CRC_LEN
 additional_pkt_info_size = 5 # for rxpk_len,rxpk_rssi,rxpk_lqi,rxpk_crc, rxpk_freq_offset
-neg_1_size = 3 # data sent by uart has -1, -1, -1 sent once information is fully sent
+neg_1_size = 3 # data sent by uart has -1, -1, -1 sent once information is fully sent. This is an end flag.
 uart_pkt_size = scum_pkt_size + additional_pkt_info_size + neg_1_size
 
 while True:
@@ -105,7 +107,7 @@ while True:
 
         (rxpk_len,rxpk_rssi,rxpk_lqi,rxpk_crc, rxpk_freq_offset) = uart_rx[scum_pkt_size:scum_pkt_size + additional_pkt_info_size]
 
-        if rxpk_len != 22:
+        if rxpk_len != scum_pkt_size:
             continue
 
         output = 'len={0:<3} rssi={1:<3} lqi={2:<1} crc={3:<1} freq_offset={4:<4}'.format(
@@ -118,7 +120,7 @@ while True:
 
         output += "pkt " + "0-" + str(scum_pkt_size - 1) + ": "
 
-        for i in range(scum_pkt_size):
+        for i in range(scum_pkt_size - CRC_LEN):
             output += '{0:<3}'.format(pkt[i]) + "| "
 
         print output
