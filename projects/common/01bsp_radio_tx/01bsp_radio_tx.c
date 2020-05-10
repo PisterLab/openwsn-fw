@@ -21,9 +21,9 @@ remainder of the packet contains an incrementing bytes.
 
 //=========================== defines =========================================
 
-#define LENGTH_PACKET   20+LENGTH_CRC // maximum length is 127 bytes
+#define LENGTH_PACKET   4+LENGTH_CRC // maximum length is 127 bytes
 #define CHANNEL         11            // 24ghz: 11 = 2.405GHz, subghz: 11 = 865.325 in  FSK operating mode #1
-#define TIMER_PERIOD    (32768>>9)    // (32768>>1) = 500ms @ 32kHz // 32768>>8 = 4 ms
+#define TIMER_PERIOD    (32768>>8)    // (32768>>1) = 500ms @ 32kHz // 32768>>8 = 4 ms
 
 //=========================== variables =======================================
 
@@ -97,9 +97,9 @@ int mote_main(void) {
         //    app_vars.txpk_buf[i] = 'a' + (i - 1);
         //}
 
-        app_vars.txpk_buf[1] = 23;
-        app_vars.txpk_buf[2] = 15;
-        app_vars.txpk_buf[3] = 9;
+        app_vars.txpk_buf[1] = 1;
+        app_vars.txpk_buf[2] = 2;
+        app_vars.txpk_buf[3] = 4;
 
         // send packet
         radio_loadPacket(app_vars.txpk_buf,app_vars.txpk_len);

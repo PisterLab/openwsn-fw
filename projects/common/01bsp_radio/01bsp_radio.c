@@ -26,7 +26,7 @@ end of frame event), it will turn on its error LED.
 //=========================== defines =========================================
 
 #define LENGTH_PACKET   125+LENGTH_CRC  ///< maximum length is 127 bytes
-#define LEN_PKT_TO_SEND 20+LENGTH_CRC
+#define LEN_PKT_TO_SEND 4+LENGTH_CRC
 #define CHANNEL         11             ///< 11=2.405GHz
 #define TIMER_PERIOD    (0xffff>>4)    ///< 0xffff = 2s@32kHz
 #define ID              0x99           ///< byte sent in the packets

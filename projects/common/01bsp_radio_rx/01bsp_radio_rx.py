@@ -65,7 +65,7 @@ if  (not t.strip() or t.strip() in ['1','yes','y','Y']):
     
 else:
     #t = raw_input('Enter serial port name (e.g. {0}): '.format(serialport))    
-    t = '/dev/ttyUSB0'    
+    t = '/dev/ttyUSB1'    
     if t.strip():
         serialport = t.strip()
     mote = mote_connect(serialport=serialport)
@@ -117,6 +117,10 @@ while True:
             rxpk_crc,
             rxpk_freq_offset,
         )
+
+        if pkt[1] == 1 and pkt[2] == 2 and pkt[3] == 4:
+            continue;
+
 
         output += "pkt " + "0-" + str(scum_pkt_size - 1) + ": "
 
