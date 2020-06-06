@@ -4,6 +4,7 @@
 import sys
 import struct
 import socket
+import platform
 try:
    import serial
 except ImportError:
@@ -65,7 +66,12 @@ if  (not t.strip() or t.strip() in ['1','yes','y','Y']):
     
 else:
     #t = raw_input('Enter serial port name (e.g. {0}): '.format(serialport))    
-    t = '/dev/ttyUSB1'    
+    if platform.system() == 'Darwin':
+        t = '/dev/tty.usbserial-1413601'
+    elif platform.system() == 'Linux':
+        t = '/dev/ttyUSB1'
+    else:
+        print('NEED TO SPECIFY PORT FOR PLATFORM (edit this script)')  
     if t.strip():
         serialport = t.strip()
     mote = mote_connect(serialport=serialport)
