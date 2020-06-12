@@ -1,14 +1,23 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# COMMAND LINE ARGS SPECIFICATION
+# Example format: python 01bsp_radio_rx.py arg1 arg2
+# arg1 = serial port path.
+#   Ex: MacOS: '/dev/tty.usbserial-14147301'
+#   Ex: Linux: '/dev/ttyUSB1'
+#   Ex: Windows: 'COM1'
+# arg2 = way of interpreting the encoding of the output
+#   Potential values
+#       'ASCII' : converts received values to ASCII format and will display entire packet as continuous message 
+#       'RAW'   : displays packet contents directly as it is received
+
 import sys
 import struct
 import socket
 import platform
-try:
-   import serial
-except ImportError:
-   pass
+from datetime import datetime
+import serial
 
 banner  = []
 banner += [""]
@@ -19,7 +28,7 @@ banner += ["`___'|  _/\___.|_|_||__/_/ <___/|_\_|"]
 banner += ["     |_|                  openwsn.org"]
 banner += [""]
 banner  = '\n'.join(banner)
-print banner
+print(banner)
 
 XOFF           = 0x13
 XON            = 0x11
@@ -44,37 +53,19 @@ def mote_connect(motename=None , serialport= None, baudrate='115200'):
 
 #============================ configuration and connection ===================================
 
-iotlab_serialport = False
-motename = 'wsn430-35'
-serialport = 'COM10'
-mote = None
+# read in the command line args
+all_args = sys.argv[1:] # removes arg that is just the name of this Python file
 
-#t = raw_input('Are you running on IoT-LAB nodes ? (Y|N): ')
-t = 'n'
-if  (not t.strip() or t.strip() in ['1','yes','y','Y']):
-    t = raw_input('Enter mote name ? (e.g. {0}): '.format(motename))
-    if t.strip():
-        motename = t.strip()
-    archi = motename.split('-')
-    assert len(archi) == 2
-    assert archi[0] in ['wsn430', 'a8', 'm3'] 
-    if (archi[0] != 'a8'):
-        iotlab_serialport = True
-        mote = mote_connect(motename=motename)
-    else:
-        mote = mote_connect(serialport='/dev/ttyA8_M3', baudrate='500000')
-    
-else:
-    #t = raw_input('Enter serial port name (e.g. {0}): '.format(serialport))    
-    if platform.system() == 'Darwin':
-        t = '/dev/tty.usbserial-1413601'
-    elif platform.system() == 'Linux':
-        t = '/dev/ttyUSB1'
-    else:
-        print('NEED TO SPECIFY PORT FOR PLATFORM (edit this script)')  
-    if t.strip():
-        serialport = t.strip()
-    mote = mote_connect(serialport=serialport)
+if len(all_args) != 2:
+    print('wrong number of command line args. see the top of this python file for usage specification')
+    quit()
+
+mote = mote_connect(serialport=all_args[0])
+encoding_mode = all_args[1]
+
+if encoding_mode != 'ASCII' and encoding_mode != 'RAW':
+    print('encoding specified is unrecognized')
+    quit()
 
 #============================ read ============================================
 
@@ -86,19 +77,14 @@ previousFrame    = 0
 frameCounter     = 0
 xonxoffEscaping  = False
 
-scum_pkt_size = 4 + CRC_LEN
+scum_pkt_size = 40 + CRC_LEN
 additional_pkt_info_size = 5 # for rxpk_len,rxpk_rssi,rxpk_lqi,rxpk_crc, rxpk_freq_offset
 neg_1_size = 3 # data sent by uart has -1, -1, -1 sent once information is fully sent. This is an end flag.
 uart_pkt_size = scum_pkt_size + additional_pkt_info_size + neg_1_size
 
 while True:
-    
-    if iotlab_serialport:
-        bytes = mote.recv(1024)
-        rawFrame += [ord(b) for b in bytes]
-    else:
-        byte  = mote.read(1)
-        rawFrame += [ord(byte)]
+    byte  = mote.read(1)
+    rawFrame += [ord(byte)]
     
     if rawFrame[-neg_1_size:]==[0xff]*neg_1_size and len(rawFrame)>=uart_pkt_size:
         rawFrame_decoded = rawFrame
@@ -116,7 +102,9 @@ while True:
         if rxpk_len != scum_pkt_size:
             continue
 
-        output = 'len={0:<3} rssi={1:<3} lqi={2:<1} crc={3:<1} freq_offset={4:<4}'.format(
+        output = datetime.now().strftime("%m/%d/%Y %H:%M:%S.%f")[:-3] + ' '
+
+        output += 'len={0:<3} rssi={1:<3} lqi={2:<1} crc={3:<1} freq_offset={4:<4}'.format(
             rxpk_len,
             rxpk_rssi,
             rxpk_lqi,
@@ -124,14 +112,13 @@ while True:
             rxpk_freq_offset,
         )
 
-        if pkt[1] == 1 and pkt[2] == 2 and pkt[3] == 4:
-            continue;
-
-
         output += "pkt " + "0-" + str(scum_pkt_size - 1) + ": "
 
         for i in range(scum_pkt_size - CRC_LEN):
-            output += '{0:<3}'.format(pkt[i]) + "| "
+            if encoding_mode == 'ASCII':
+                output += chr(pkt[i])
+            elif encoding_mode == 'RAW':
+                output += '{0:<3}'.format(pkt[i]) + "| "
 
         print output
         
