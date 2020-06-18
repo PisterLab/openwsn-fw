@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0191f86d-b831-4244-9dff-bacf9bd3f2c8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/01bsp_radio_rx.c" beforeDir="false" afterPath="$PROJECT_DIR$/01bsp_radio_rx.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01bsp_radio_rx.py" beforeDir="false" afterPath="$PROJECT_DIR$/01bsp_radio_rx.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591984679013</updated>
-      <workItem from="1591984680355" duration="1575000" />
+      <workItem from="1591984680355" duration="1986000" />
     </task>
     <servers />
   </component>

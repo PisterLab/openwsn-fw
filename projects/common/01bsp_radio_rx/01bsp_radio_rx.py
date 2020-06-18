@@ -2,15 +2,14 @@
 # -*- coding: utf-8 -*-
 
 # COMMAND LINE ARGS SPECIFICATION
-# Example format: python 01bsp_radio_rx.py arg1 arg2
+# Example format: python 01bsp_radio_rx.py arg1
 # arg1 = serial port path.
 #   Ex: MacOS: '/dev/tty.usbserial-14147301'
 #   Ex: Linux: '/dev/ttyUSB1'
 #   Ex: Windows: 'COM1'
-# arg2 = way of interpreting the encoding of the output
-#   Potential values
-#       'ASCII' : converts received values to ASCII format and will display entire packet as continuous message 
-#       'RAW'   : displays packet contents directly as it is received
+# todo add arg2 spec
+
+from __future__ import print_function # use python3 print from python2
 
 import sys
 import struct
@@ -18,6 +17,9 @@ import socket
 import platform
 from datetime import datetime
 import serial
+from colorama import Fore, Back, Style # color support in terminal output
+from colorama import init
+init()
 
 banner  = []
 banner += [""]
@@ -46,7 +48,7 @@ def mote_connect(motename=None , serialport= None, baudrate='115200'):
             mote = serial.Serial(serialport, baudrate)
         return mote
     except Exception as err:
-        print "{0}".format(err)
+        print(str(err))
         raw_input('Press Enter to close.')
         sys.exit(1)
     
@@ -61,11 +63,7 @@ if len(all_args) != 2:
     quit()
 
 mote = mote_connect(serialport=all_args[0])
-encoding_mode = all_args[1]
-
-if encoding_mode != 'ASCII' and encoding_mode != 'RAW':
-    print('encoding specified is unrecognized')
-    quit()
+encode_type = all_args[1]
 
 #============================ read ============================================
 
@@ -77,10 +75,12 @@ previousFrame    = 0
 frameCounter     = 0
 xonxoffEscaping  = False
 
-scum_pkt_size = 40 + CRC_LEN
+scum_pkt_size = 12 + CRC_LEN
 additional_pkt_info_size = 5 # for rxpk_len,rxpk_rssi,rxpk_lqi,rxpk_crc, rxpk_freq_offset
 neg_1_size = 3 # data sent by uart has -1, -1, -1 sent once information is fully sent. This is an end flag.
 uart_pkt_size = scum_pkt_size + additional_pkt_info_size + neg_1_size
+
+print("LOOKING FOR PACKETS OF LENGTH (excluding additional 2 bits of CRC):", scum_pkt_size - 2)
 
 while True:
     byte  = mote.read(1)
@@ -97,30 +97,35 @@ while True:
 
         pkt = uart_rx[0:scum_pkt_size]
 
+        #print(to_decode)
+
         (rxpk_len,rxpk_rssi,rxpk_lqi,rxpk_crc, rxpk_freq_offset) = uart_rx[scum_pkt_size:scum_pkt_size + additional_pkt_info_size]
 
         if rxpk_len != scum_pkt_size:
             continue
 
-        output = datetime.now().strftime("%m/%d/%Y %H:%M:%S.%f")[:-3] + ' '
+        print(Fore.MAGENTA + datetime.now().strftime("%m/%d/%Y %H:%M:%S.%f")[:-3] + ' ', end='')
 
-        output += 'len={0:<3} rssi={1:<3} lqi={2:<1} crc={3:<1} freq_offset={4:<4}'.format(
+        print(Fore.RED + 'len={0:<3} rssi={1:<3} lqi={2:<1} crc={3:<1} freq_offset={4:<4}'.format(
             rxpk_len,
             rxpk_rssi,
             rxpk_lqi,
             rxpk_crc,
             rxpk_freq_offset,
-        )
+        ), end='')
 
-        output += "pkt " + "0-" + str(scum_pkt_size - 1) + ": "
+        print("pkt " + "0-" + str(scum_pkt_size - 1) + ": ", end='')
 
-        for i in range(scum_pkt_size - CRC_LEN):
-            if encoding_mode == 'ASCII':
-                output += chr(pkt[i])
-            elif encoding_mode == 'RAW':
-                output += '{0:<3}'.format(pkt[i]) + "| "
+        if encode_type == 'ASCII':
+            print(Fore.GREEN + 'ASCII: ', end='')
+            for i in range(scum_pkt_size - CRC_LEN):
+                print(chr(pkt[i]), end='')
+        elif encode_type == 'RAW':
+            print(Fore.GREEN + '   RAW: ', end='')
+            for i in range(scum_pkt_size - CRC_LEN):
+                print('{0:<3}'.format(pkt[i]) + ' ', end='')
 
-        print output
+        print(Style.RESET_ALL)
         
 #        if rxpk_len>127:
             #print "ERROR: frame too long.\a"

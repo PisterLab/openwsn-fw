@@ -73,13 +73,12 @@ len=17  num=84  rssi=-81  lqi=108 crc=1
 
 //=========================== defines =========================================
 
-#define LENGTH_PACKET        125+LENGTH_CRC // maximum length is 127 bytes
 #define CHANNEL              11             // 24ghz: 11 = 2.405GHz, subghz: 11 = 865.325 in  FSK operating mode #1
 #define LEN_CRC 2
-#define SCUM_PKT_LEN     40 + LEN_CRC
+#define PKT_LEN     12 + LEN_CRC
 //#define LENGTH_SERIAL_FRAME  14              // length of the serial frame
 //#define LENGTH_SERIAL_FRAME  14+SCUM_PKT_LEN              // length of the serial frame
-#define LENGTH_SERIAL_FRAME  SCUM_PKT_LEN + 5 + 3              // length of the serial frame = packet length (including CRC) + 5 (additional pkt metadata) + 3 (closing flags)
+#define LENGTH_SERIAL_FRAME  PKT_LEN + 5 + 3              // length of the serial frame = packet length (including CRC) + 5 (additional pkt metadata) + 3 (closing flags)
 
 //=========================== variables =======================================
 
@@ -94,7 +93,7 @@ app_dbg_t app_dbg;
 typedef struct {
     // rx packet
     volatile    uint8_t    rxpk_done;
-                uint8_t    rxpk_buf[LENGTH_PACKET];
+                uint8_t    rxpk_buf[PKT_LEN];
                 uint8_t    rxpk_len;
                 uint8_t    rxpk_num;
                 int8_t     rxpk_rssi;
@@ -175,7 +174,7 @@ int mote_main(void) {
         //    app_vars.uart_txFrame[i] = app_vars.rxpk_buf[i];
         //}
 
-        for (i = 0; i < SCUM_PKT_LEN; i++) {
+        for (i = 0; i < PKT_LEN; i++) {
             app_vars.uart_txFrame[i] = app_vars.rxpk_buf[i];
         }
 
@@ -216,13 +215,12 @@ void cb_startFrame(PORT_TIMER_WIDTH timestamp) {
 }
 
 void cb_endFrame(PORT_TIMER_WIDTH timestamp) {
-    uint8_t  i;
     bool     expectedFrame;
 
     // update debug stats
     app_dbg.num_endFrame++;
 
-    memset(&app_vars.rxpk_buf[0],0,LENGTH_PACKET);
+    memset(&app_vars.rxpk_buf[0],0,PKT_LEN);
 
     app_vars.rxpk_freq_offset = radio_getFrequencyOffset();
 
@@ -239,7 +237,7 @@ void cb_endFrame(PORT_TIMER_WIDTH timestamp) {
     // check the frame is sent by radio_tx project
     expectedFrame = TRUE;
 
-    if (app_vars.rxpk_len>LENGTH_PACKET){
+    if (app_vars.rxpk_len>PKT_LEN){
         expectedFrame = FALSE;
     }
     //else {
