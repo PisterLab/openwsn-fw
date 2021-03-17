@@ -1,0 +1,14 @@
+.\objects\board.o: ..\..\..\bsp\boards\scum\board.c
+.\objects\board.o: ..\..\..\bsp\boards\scum\memory_map.h
+.\objects\board.o: ..\..\..\bsp\boards\board.h
+.\objects\board.o: ..\..\..\bsp\boards\scum\board_info.h
+.\objects\board.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\objects\board.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\board.o: ..\..\..\bsp\boards\toolchain_defs.h
+.\objects\board.o: ..\..\..\bsp\boards\debugpins.h
+.\objects\board.o: ..\..\..\bsp\boards\leds.h
+.\objects\board.o: ..\..\..\bsp\boards\uart.h
+.\objects\board.o: ..\..\..\bsp\boards\radio.h
+.\objects\board.o: ..\..\..\bsp\boards\eui64.h
+.\objects\board.o: ..\..\..\bsp\boards\sctimer.h
+.\objects\board.o: ..\..\..\bsp\boards\scum\scm3_hardware_interface.h

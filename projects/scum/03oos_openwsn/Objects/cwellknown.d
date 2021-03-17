@@ -1,0 +1,17 @@
+.\objects\cwellknown.o: ..\..\..\openapps\cwellknown\cwellknown.c
+.\objects\cwellknown.o: ..\..\..\inc\opendefs.h
+.\objects\cwellknown.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\objects\cwellknown.o: ..\..\..\bsp\boards\toolchain_defs.h
+.\objects\cwellknown.o: ..\..\..\bsp\boards\scum\board_info.h
+.\objects\cwellknown.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\cwellknown.o: ..\..\..\openapps\cwellknown\cwellknown.h
+.\objects\cwellknown.o: ..\..\..\openapps\opencoap\opencoap.h
+.\objects\cwellknown.o: ..\..\..\drivers\common\opentimers.h
+.\objects\cwellknown.o: ..\..\..\openstack\04-TRAN\openudp.h
+.\objects\cwellknown.o: ..\..\..\openstack\cross-layers\openqueue.h
+.\objects\cwellknown.o: ..\..\..\openstack\02a-MAClow\IEEE802154.h
+.\objects\cwellknown.o: ..\..\..\openstack\cross-layers\packetfunctions.h
+.\objects\cwellknown.o: ..\..\..\drivers\common\openserial.h
+.\objects\cwellknown.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\objects\cwellknown.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdarg.h
+.\objects\cwellknown.o: ..\..\..\openstack\cross-layers\idmanager.h

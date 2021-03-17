@@ -1,0 +1,15 @@
+.\objects\icmpv6echo.o: ..\..\..\openstack\03b-IPv6\icmpv6echo.c
+.\objects\icmpv6echo.o: ..\..\..\inc\opendefs.h
+.\objects\icmpv6echo.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\objects\icmpv6echo.o: ..\..\..\bsp\boards\toolchain_defs.h
+.\objects\icmpv6echo.o: ..\..\..\bsp\boards\scum\board_info.h
+.\objects\icmpv6echo.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\icmpv6echo.o: ..\..\..\openstack\03b-IPv6\icmpv6echo.h
+.\objects\icmpv6echo.o: ..\..\..\openstack\03b-IPv6\icmpv6.h
+.\objects\icmpv6echo.o: ..\..\..\drivers\common\openserial.h
+.\objects\icmpv6echo.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\objects\icmpv6echo.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdarg.h
+.\objects\icmpv6echo.o: ..\..\..\openstack\cross-layers\openqueue.h
+.\objects\icmpv6echo.o: ..\..\..\openstack\02a-MAClow\IEEE802154.h
+.\objects\icmpv6echo.o: ..\..\..\openstack\cross-layers\packetfunctions.h
+.\objects\icmpv6echo.o: ..\..\..\bsp\boards\debugpins.h

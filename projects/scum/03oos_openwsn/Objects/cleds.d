@@ -1,0 +1,14 @@
+.\objects\cleds.o: ..\..\..\openapps\cleds\cleds.c
+.\objects\cleds.o: ..\..\..\inc\opendefs.h
+.\objects\cleds.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\objects\cleds.o: ..\..\..\bsp\boards\toolchain_defs.h
+.\objects\cleds.o: ..\..\..\bsp\boards\scum\board_info.h
+.\objects\cleds.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\cleds.o: ..\..\..\openapps\cleds\cleds.h
+.\objects\cleds.o: ..\..\..\openapps\opencoap\opencoap.h
+.\objects\cleds.o: ..\..\..\drivers\common\opentimers.h
+.\objects\cleds.o: ..\..\..\openstack\04-TRAN\openudp.h
+.\objects\cleds.o: ..\..\..\openstack\cross-layers\packetfunctions.h
+.\objects\cleds.o: ..\..\..\bsp\boards\leds.h
+.\objects\cleds.o: ..\..\..\openstack\cross-layers\openqueue.h
+.\objects\cleds.o: ..\..\..\openstack\02a-MAClow\IEEE802154.h

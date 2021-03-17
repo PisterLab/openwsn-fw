@@ -1,0 +1,14 @@
+.\objects\uecho.o: ..\..\..\openapps\uecho\uecho.c
+.\objects\uecho.o: ..\..\..\inc\opendefs.h
+.\objects\uecho.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\objects\uecho.o: ..\..\..\bsp\boards\toolchain_defs.h
+.\objects\uecho.o: ..\..\..\bsp\boards\scum\board_info.h
+.\objects\uecho.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\uecho.o: ..\..\..\openapps\uecho\uecho.h
+.\objects\uecho.o: ..\..\..\openstack\04-TRAN\openudp.h
+.\objects\uecho.o: ..\..\..\openstack\cross-layers\openqueue.h
+.\objects\uecho.o: ..\..\..\openstack\02a-MAClow\IEEE802154.h
+.\objects\uecho.o: ..\..\..\drivers\common\openserial.h
+.\objects\uecho.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\objects\uecho.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdarg.h
+.\objects\uecho.o: ..\..\..\openstack\cross-layers\packetfunctions.h

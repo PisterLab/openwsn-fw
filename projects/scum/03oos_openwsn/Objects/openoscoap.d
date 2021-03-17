@@ -1,0 +1,17 @@
+.\objects\openoscoap.o: ..\..\..\openapps\opencoap\openoscoap.c
+.\objects\openoscoap.o: ..\..\..\inc\opendefs.h
+.\objects\openoscoap.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\objects\openoscoap.o: ..\..\..\bsp\boards\toolchain_defs.h
+.\objects\openoscoap.o: ..\..\..\bsp\boards\scum\board_info.h
+.\objects\openoscoap.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\openoscoap.o: ..\..\..\drivers\common\openserial.h
+.\objects\openoscoap.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\objects\openoscoap.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdarg.h
+.\objects\openoscoap.o: ..\..\..\openstack\cross-layers\packetfunctions.h
+.\objects\openoscoap.o: ..\..\..\openapps\opencoap\openoscoap.h
+.\objects\openoscoap.o: ..\..\..\openapps\opencoap\opencoap.h
+.\objects\openoscoap.o: ..\..\..\drivers\common\opentimers.h
+.\objects\openoscoap.o: ..\..\..\openstack\04-TRAN\openudp.h
+.\objects\openoscoap.o: ..\..\..\openapps\opencoap\cborencoder.h
+.\objects\openoscoap.o: ..\..\..\bsp\boards\cryptoengine.h
+.\objects\openoscoap.o: ..\..\..\openapps\opencoap\sha.h

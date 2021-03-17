@@ -1,0 +1,17 @@
+.\objects\uexpiration.o: ..\..\..\openapps\uexpiration\uexpiration.c
+.\objects\uexpiration.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+.\objects\uexpiration.o: ..\..\..\inc\opendefs.h
+.\objects\uexpiration.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\objects\uexpiration.o: ..\..\..\bsp\boards\toolchain_defs.h
+.\objects\uexpiration.o: ..\..\..\bsp\boards\scum\board_info.h
+.\objects\uexpiration.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\uexpiration.o: ..\..\..\openapps\uexpiration\uexpiration.h
+.\objects\uexpiration.o: ..\..\..\drivers\common\opentimers.h
+.\objects\uexpiration.o: ..\..\..\openstack\04-TRAN\openudp.h
+.\objects\uexpiration.o: ..\..\..\openstack\cross-layers\openqueue.h
+.\objects\uexpiration.o: ..\..\..\openstack\02a-MAClow\IEEE802154.h
+.\objects\uexpiration.o: ..\..\..\drivers\common\openserial.h
+.\objects\uexpiration.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\objects\uexpiration.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdarg.h
+.\objects\uexpiration.o: ..\..\..\openstack\cross-layers\packetfunctions.h
+.\objects\uexpiration.o: ..\..\..\kernel\scheduler.h

@@ -1,0 +1,11 @@
+.\objects\packetfunctions.o: ..\..\..\openstack\cross-layers\packetfunctions.c
+.\objects\packetfunctions.o: ..\..\..\openstack\cross-layers\packetfunctions.h
+.\objects\packetfunctions.o: ..\..\..\inc\opendefs.h
+.\objects\packetfunctions.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\objects\packetfunctions.o: ..\..\..\bsp\boards\toolchain_defs.h
+.\objects\packetfunctions.o: ..\..\..\bsp\boards\scum\board_info.h
+.\objects\packetfunctions.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\packetfunctions.o: ..\..\..\drivers\common\openserial.h
+.\objects\packetfunctions.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\objects\packetfunctions.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdarg.h
+.\objects\packetfunctions.o: ..\..\..\openstack\cross-layers\idmanager.h

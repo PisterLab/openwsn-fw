@@ -75,7 +75,7 @@ len=17  num=84  rssi=-81  lqi=108 crc=1
 
 #define CHANNEL              11             // 24ghz: 11 = 2.405GHz, subghz: 11 = 865.325 in  FSK operating mode #1
 #define LEN_CRC 2
-#define PKT_LEN     12 + LEN_CRC
+#define PKT_LEN     8 + LEN_CRC
 //#define LENGTH_SERIAL_FRAME  14              // length of the serial frame
 //#define LENGTH_SERIAL_FRAME  14+SCUM_PKT_LEN              // length of the serial frame
 #define LENGTH_SERIAL_FRAME  PKT_LEN + 5 + 3              // length of the serial frame = packet length (including CRC) + 5 (additional pkt metadata) + 3 (closing flags)

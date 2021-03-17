@@ -1,0 +1,476 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.31.0.0
+Copyright (C) 2020 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: Austin Patel, UC Berkeley, LIC=----
+ 
+Tool Versions:
+Toolchain:       MDK-Lite  Version: 5.31.0.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 6 (build 750)
+Assembler:       Armasm.exe V5.06 update 6 (build 750)
+Linker/Locator:  ArmLink.exe V5.06 update 6 (build 750)
+Library Manager: ArmAr.exe V5.06 update 6 (build 750)
+Hex Converter:   FromElf.exe V5.06 update 6 (build 750)
+CPU DLL:         SARMCM3.DLL V5.31.0.0
+Dialog DLL:      DARMCM1.DLL V1.19.3.0
+Target DLL:      UL2CM3.DLL V1.163.4.0
+Dialog DLL:      TARMCM1.DLL V1.14.2.0
+ 
+<h2>Project:</h2>
+Y:\Google Drive\Research\Swarm\OpenMote\openwsn-fw\projects\scum\03oos_openwsn\03oos_openwsn.uvprojx
+Project File Date:  01/05/2021
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Rebuild target 'Target SCuM'
+assembling cm0dsasm.s...
+..\..\..\bsp\boards\scum\cm0dsasm.s(149): warning: A1447W: Missing END directive at end of file, but found a label named END
+compiling 03oos_openwsn.c...
+compiling board.c...
+..\..\..\bsp\boards\eui64.h(32): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\bsp\boards\scum\board.c: 1 warning, 0 errors
+compiling uart.c...
+..\..\..\bsp\boards\scum\uart.c(82): warning:  #1-D: last line of file ends without a newline
+  }
+..\..\..\bsp\boards\scum\uart.c: 1 warning, 0 errors
+compiling leds.c...
+compiling debugpins.c...
+..\..\..\bsp\boards\scum\debugpins.c(105): warning:  #1-D: last line of file ends without a newline
+  }
+..\..\..\bsp\boards\scum\debugpins.c: 1 warning, 0 errors
+compiling radio.c...
+..\..\..\bsp\boards\scum\radio.c(152): warning:  #513-D: a value of type "uint8_t *" cannot be assigned to an entity of type "char *"
+      RFCONTROLLER_REG__TX_DATA_ADDR  = &(radio_vars.radio_tx_buffer[0]);
+..\..\..\bsp\boards\scum\radio.c(187): warning:  #513-D: a value of type "uint8_t *" cannot be assigned to an entity of type "char *"
+      DMA_REG__RF_RX_ADDR         = &(radio_vars.radio_rx_buffer[0]);
+..\..\..\bsp\boards\scum\radio.c(194): warning:  #513-D: a value of type "uint8_t *" cannot be assigned to an entity of type "char *"
+      DMA_REG__RF_RX_ADDR         = &(radio_vars.radio_rx_buffer[0]);
+..\..\..\bsp\boards\scum\radio.c: 3 warnings, 0 errors
+compiling eui64.c...
+..\..\..\bsp\boards\eui64.h(32): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\bsp\boards\scum\eui64.c(29): warning:  #1-D: last line of file ends without a newline
+  //=========================== private =========================================
+..\..\..\bsp\boards\scum\eui64.c: 2 warnings, 0 errors
+compiling scm3_hardware_interface.c...
+..\..\..\bsp\boards\scum\scm3_hardware_interface.c(157): warning:  #177-D: variable "temp"  was declared but never referenced
+      unsigned int temp;
+..\..\..\bsp\boards\scum\scm3_hardware_interface.c(258): warning:  #177-D: variable "ind"  was declared but never referenced
+      int ind;
+..\..\..\bsp\boards\scum\scm3_hardware_interface.c(259): warning:  #177-D: variable "counter_dif"  was declared but never referenced
+      int counter_dif;
+..\..\..\bsp\boards\scum\scm3_hardware_interface.c(452): warning:  #177-D: variable "rdata_lsb"  was declared but never referenced
+      unsigned int rdata_lsb, rdata_msb;
+..\..\..\bsp\boards\scum\scm3_hardware_interface.c(452): warning:  #177-D: variable "rdata_msb"  was declared but never referenced
+      unsigned int rdata_lsb, rdata_msb;
+..\..\..\bsp\boards\scum\scm3_hardware_interface.c: 5 warnings, 0 errors
+compiling sctimer.c...
+..\..\..\bsp\boards\scum\sctimer.c(319): warning:  #1-D: last line of file ends without a newline
+  }
+..\..\..\bsp\boards\scum\sctimer.c: 1 warning, 0 errors
+compiling cryptoengine.c...
+compiling opentimers.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\drivers\common\opentimers.c(56): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\drivers\common\opentimers.c(117): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\drivers\common\opentimers.c(208): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\drivers\common\opentimers.c(275): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\drivers\common\opentimers.c(293): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\drivers\common\opentimers.c(462): warning:  #1-D: last line of file ends without a newline
+  }
+..\..\..\drivers\common\opentimers.c: 7 warnings, 0 errors
+compiling openhdlc.c...
+..\..\..\drivers\common\openhdlc.h(75): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\drivers\common\openhdlc.c: 1 warning, 0 errors
+compiling openserial.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\drivers\common\openhdlc.h(75): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\drivers\common\openserial.c(319): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\drivers\common\openserial.c(400): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\drivers\common\openserial.c(414): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\drivers\common\openserial.c(445): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\drivers\common\openserial.c(503): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\drivers\common\openserial.c(531): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\drivers\common\openserial.c(881): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\drivers\common\openserial.c(900): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\drivers\common\openserial.c(923): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\drivers\common\openserial.c: 11 warnings, 0 errors
+compiling openstack.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openstack\openstack.c: 1 warning, 0 errors
+compiling IEEE802154.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openstack\02a-MAClow\IEEE802154.c(41): warning:  #68-D: integer conversion resulted in a change of sign
+     uint8_t      destAddrMode = -1;
+..\..\..\openstack\02a-MAClow\IEEE802154.c: 2 warnings, 0 errors
+compiling IEEE802154_security.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openstack\02a-MAClow\IEEE802154_security.c: 1 warning, 0 errors
+compiling IEEE802154E.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(182): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(1062): error:  #20: identifier "TsTxOffset" is undefined
+                      DURATION_tt1,                                     // duration
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(1090): error:  #20: identifier "TsTxOffset" is undefined
+                  DURATION_rt1,                                     // duration
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(1090): error:  #20: identifier "TsLongGT" is undefined
+                  DURATION_rt1,                                     // duration
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(1121): error:  #20: identifier "TsTxOffset" is undefined
+            DURATION_tt2,                                     // duration
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(1178): error:  #20: identifier "TsTxOffset" is undefined
+          DURATION_tt3,                                     // duration
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(1298): error:  #20: identifier "TsTxAckDelay" is undefined
+              DURATION_tt5,                                     // duration
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(1298): error:  #20: identifier "TsShortGT" is undefined
+              DURATION_tt5,                                     // duration
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(1327): error:  #20: identifier "TsTxAckDelay" is undefined
+          DURATION_tt6,                                     // duration
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(1327): error:  #20: identifier "TsShortGT" is undefined
+          DURATION_tt6,                                     // duration
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(1370): error:  #20: identifier "TsTxAckDelay" is undefined
+          DURATION_tt7,                                     // duration
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(1370): error:  #20: identifier "TsShortGT" is undefined
+          DURATION_tt7,                                     // duration
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(1603): error:  #20: identifier "TsTxOffset" is undefined
+          DURATION_rt2,                                     // duration
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(1603): error:  #20: identifier "TsLongGT" is undefined
+          DURATION_rt2,                                     // duration
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(1645): error:  #20: identifier "TsTxOffset" is undefined
+          DURATION_rt3,                                     // duration
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(1645): error:  #20: identifier "TsLongGT" is undefined
+          DURATION_rt3,                                     // duration
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(1858): error:  #20: identifier "TsTxOffset" is undefined
+          ieee154e_vars.dataReceived->l2_timeCorrection = (PORT_SIGNED_INT_WIDTH)((PORT_SIGNED_INT_WIDTH)TsTxOffset-(PORT_SIGNED_INT_WIDTH)ieee154e_vars.syncCapturedTime);
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(1934): error:  #20: identifier "TsTxAckDelay" is undefined
+                  DURATION_rt5,                                     // duration
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(1991): error:  #20: identifier "TsTxAckDelay" is undefined
+          DURATION_rt6,                                     // duration
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(2020): error:  #20: identifier "TsTxOffset" is undefined
+      ieee154e_vars.timeCorrection = (PORT_SIGNED_INT_WIDTH)((PORT_SIGNED_INT_WIDTH)TsTxOffset-(PORT_SIGNED_INT_WIDTH)ieee154e_vars.syncCapturedTime);
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(2085): error:  #20: identifier "TsTxAckDelay" is undefined
+          DURATION_rt7,                                     // duration
+..\..\..\openstack\02a-MAClow\IEEE802154E.c(2607): error:  #20: identifier "TsTxOffset" is undefined
+      timeCorrection                 =  (PORT_SIGNED_INT_WIDTH)((PORT_SIGNED_INT_WIDTH)timeReceived-(PORT_SIGNED_INT_WIDTH)TsTxOffset);
+..\..\..\openstack\02a-MAClow\IEEE802154E.c: 2 warnings, 21 errors
+compiling topology.c...
+..\..\..\openstack\02a-MAClow\topology.c(104): warning:  #1-D: last line of file ends without a newline
+  //=========================== private =========================================
+..\..\..\openstack\02a-MAClow\topology.c: 1 warning, 0 errors
+compiling neighbors.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openstack\02b-MAChigh\neighbors.c: 1 warning, 0 errors
+compiling schedule.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openstack\02b-MAChigh\schedule.c(175): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+     DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(192): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+     DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(207): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+     DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(283): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(503): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(659): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+     DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(710): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(729): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(766): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(791): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(820): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(842): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(865): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(887): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(919): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(942): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(965): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+     DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(980): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(993): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(1011): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(1030): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(1049): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(1068): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(1085): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(1101): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(1119): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(1144): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(1184): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(1200): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(1217): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c(1265): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\02b-MAChigh\schedule.c: 32 warnings, 0 errors
+compiling msf.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openstack\02b-MAChigh\msf.c(551): warning:  #111-D: statement is unreachable
+          break;
+..\..\..\openstack\02b-MAChigh\msf.c(554): warning:  #111-D: statement is unreachable
+          break;
+..\..\..\openstack\02b-MAChigh\msf.c(559): warning:  #1-D: last line of file ends without a newline
+  }
+..\..\..\openstack\02b-MAChigh\msf.c: 4 warnings, 0 errors
+compiling sixtop.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openstack\02b-MAChigh\sixtop.c(1125): warning:  #68-D: integer conversion resulted in a change of sign
+      uint8_t           returnCode        = -1;
+..\..\..\openstack\02b-MAChigh\sixtop.c(1126): warning:  #68-D: integer conversion resulted in a change of sign
+      uint16_t          metadata          = -1;
+..\..\..\openstack\02b-MAChigh\sixtop.c(1127): warning:  #68-D: integer conversion resulted in a change of sign
+      uint8_t           cellOptions       = -1;
+..\..\..\openstack\02b-MAChigh\sixtop.c: 4 warnings, 0 errors
+compiling idmanager.c...
+..\..\..\bsp\boards\eui64.h(32): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openstack\cross-layers\idmanager.c(78): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+     DISABLE_INTERRUPTS();
+..\..\..\openstack\cross-layers\idmanager.c(86): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+     DISABLE_INTERRUPTS();
+..\..\..\openstack\cross-layers\idmanager.c(97): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+     DISABLE_INTERRUPTS();
+..\..\..\openstack\cross-layers\idmanager.c(106): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+     DISABLE_INTERRUPTS();
+..\..\..\openstack\cross-layers\idmanager.c(135): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+     DISABLE_INTERRUPTS();
+..\..\..\openstack\cross-layers\idmanager.c(166): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+     DISABLE_INTERRUPTS();
+..\..\..\openstack\cross-layers\idmanager.c: 8 warnings, 0 errors
+compiling openqueue.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openstack\cross-layers\openqueue.c(72): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+     DISABLE_INTERRUPTS();
+..\..\..\openstack\cross-layers\openqueue.c(113): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+     DISABLE_INTERRUPTS();
+..\..\..\openstack\cross-layers\openqueue.c(143): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\cross-layers\openqueue.c(160): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+     DISABLE_INTERRUPTS();
+..\..\..\openstack\cross-layers\openqueue.c(175): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+     DISABLE_INTERRUPTS();
+..\..\..\openstack\cross-layers\openqueue.c(193): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\cross-layers\openqueue.c(216): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\cross-layers\openqueue.c(237): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\cross-layers\openqueue.c(258): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\cross-layers\openqueue.c(279): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+     DISABLE_INTERRUPTS();
+..\..\..\openstack\cross-layers\openqueue.c(295): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\cross-layers\openqueue.c(313): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\cross-layers\openqueue.c(333): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\cross-layers\openqueue.c(361): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\openstack\cross-layers\openqueue.c: 15 warnings, 0 errors
+compiling openrandom.c...
+..\..\..\openstack\cross-layers\openrandom.c(45): warning:  #1-D: last line of file ends without a newline
+  //=========================== private =========================================
+..\..\..\openstack\cross-layers\openrandom.c: 1 warning, 0 errors
+compiling packetfunctions.c...
+compiling scheduler.c...
+..\..\..\kernel\openos\scheduler.c(41): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+           DISABLE_INTERRUPTS();
+..\..\..\kernel\openos\scheduler.c(71): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+      DISABLE_INTERRUPTS();
+..\..\..\kernel\openos\scheduler.c: 2 warnings, 0 errors
+compiling iphc.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openstack\03a-IPHC\iphc.c: 1 warning, 0 errors
+compiling openbridge.c...
+compiling forwarding.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openstack\03b-IPv6\forwarding.c: 1 warning, 0 errors
+compiling icmpv6.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openstack\03b-IPv6\icmpv6.c(63): warning:  #1-D: last line of file ends without a newline
+  }
+..\..\..\openstack\03b-IPv6\icmpv6.c: 2 warnings, 0 errors
+compiling icmpv6echo.c...
+compiling icmpv6rpl.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openstack\03b-IPv6\icmpv6rpl.c: 1 warning, 0 errors
+compiling openudp.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openapps\rrt\rrt.h(37): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openstack\04-TRAN\openudp.c: 2 warnings, 0 errors
+compiling openapps.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openapps\rrt\rrt.h(37): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openapps\openapps.c: 2 warnings, 0 errors
+compiling c6t.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openapps\c6t\c6t.c: 1 warning, 0 errors
+compiling uinject.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openapps\uinject\uinject.c: 1 warning, 0 errors
+compiling cinfo.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openapps\cinfo\cinfo.c: 1 warning, 0 errors
+compiling uecho.c...
+compiling cstorm.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openapps\cstorm\cstorm.c: 1 warning, 0 errors
+compiling rrt.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openapps\rrt\rrt.h(37): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openapps\rrt\rrt.c: 2 warnings, 0 errors
+compiling cwellknown.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openapps\cwellknown\cwellknown.c: 1 warning, 0 errors
+compiling userialbridge.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openapps\userialbridge\userialbridge.c: 1 warning, 0 errors
+compiling cleds.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openapps\cleds\cleds.c: 1 warning, 0 errors
+compiling cborencoder.c...
+compiling hkdf.c...
+..\..\..\openapps\opencoap\hkdf.c(330): warning:  #188-D: enumerated type mixed with another type
+          hkdfExpand(context->whichSha, prk, context->hashSize, info,
+..\..\..\openapps\opencoap\hkdf.c: 1 warning, 0 errors
+compiling hmac.c...
+..\..\..\openapps\opencoap\hmac.c(235): warning:  #188-D: enumerated type mixed with another type
+           USHAReset(&context->shaContext, context->whichSha) ||
+..\..\..\openapps\opencoap\hmac.c: 1 warning, 0 errors
+compiling opencoap.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openapps\opencoap\opencoap.c(958): warning:  #188-D: enumerated type mixed with another type
+          optionDelta = ((buffer[index] & 0xf0) >> 4);
+..\..\..\openapps\opencoap\opencoap.c(966): warning:  #188-D: enumerated type mixed with another type
+              optionDelta = buffer[index] + 13;
+..\..\..\openapps\opencoap\opencoap.c(994): warning:  #188-D: enumerated type mixed with another type
+          options[i].type = lastOption + optionDelta;
+..\..\..\openapps\opencoap\opencoap.c: 4 warnings, 0 errors
+compiling openoscoap.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openapps\opencoap\openoscoap.c: 1 warning, 0 errors
+compiling sha224-256.c...
+compiling usha.c...
+compiling uexpiration.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openapps\uexpiration\uexpiration.c: 1 warning, 0 errors
+compiling uexpiration_monitor.c...
+compiling cjoin.c...
+..\..\..\drivers\common\opentimers.h(101): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\bsp\boards\eui64.h(32): warning:  #1-D: last line of file ends without a newline
+  #endif
+..\..\..\openapps\cjoin\cjoin.c(326): warning:  #1267-D: Implicit physical register R0 should be defined as a variable
+     DISABLE_INTERRUPTS();
+..\..\..\openapps\cjoin\cjoin.c: 3 warnings, 0 errors
+compiling cojp_cbor.c...
+..\..\..\openapps\cjoin\cojp_cbor.c(44): warning:  #188-D: enumerated type mixed with another type
+      major_type = (cbor_majortype_t) *buf >> 5;
+..\..\..\openapps\cjoin\cojp_cbor.c(160): warning:  #188-D: enumerated type mixed with another type
+      major_type = (cbor_majortype_t) *buf >> 5;
+..\..\..\openapps\cjoin\cojp_cbor.c(181): warning:  #188-D: enumerated type mixed with another type
+          major_type = (cbor_majortype_t) *tmp >> 5;
+..\..\..\openapps\cjoin\cojp_cbor.c(191): warning:  #188-D: enumerated type mixed with another type
+              major_type = (cbor_majortype_t) *tmp >> 5;
+..\..\..\openapps\cjoin\cojp_cbor.c(200): warning:  #188-D: enumerated type mixed with another type
+                  major_type = (cbor_majortype_t) *tmp >> 5;
+..\..\..\openapps\cjoin\cojp_cbor.c(249): warning:  #188-D: enumerated type mixed with another type
+      major_type = (cbor_majortype_t) *buf >> 5;
+..\..\..\openapps\cjoin\cojp_cbor.c(261): warning:  #188-D: enumerated type mixed with another type
+      major_type = (cbor_majortype_t) *buf >> 5;
+..\..\..\openapps\cjoin\cojp_cbor.c: 7 warnings, 0 errors
+".\Objects\03oos_openwsn.axf" - 21 Error(s), 144 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.7.0.pack
+                ARM.CMSIS.5.7.0
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+
+<h2>Collection of Component include folders:</h2>
+  C:\Users\crossover\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\Device\ARM\ARMCM0\Include
+
+<h2>Collection of Component Files used:</h2>
+Target not created.
+Build Time Elapsed:  00:00:11
+</pre>
+</body>
+</html>

@@ -75,7 +75,7 @@ previousFrame    = 0
 frameCounter     = 0
 xonxoffEscaping  = False
 
-scum_pkt_size = 12 + CRC_LEN
+scum_pkt_size = 8 + CRC_LEN
 additional_pkt_info_size = 5 # for rxpk_len,rxpk_rssi,rxpk_lqi,rxpk_crc, rxpk_freq_offset
 neg_1_size = 3 # data sent by uart has -1, -1, -1 sent once information is fully sent. This is an end flag.
 uart_pkt_size = scum_pkt_size + additional_pkt_info_size + neg_1_size

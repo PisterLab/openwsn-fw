@@ -1,0 +1,9 @@
+.\objects\03oos_openwsn.o: ..\..\common\03oos_openwsn\03oos_openwsn.c
+.\objects\03oos_openwsn.o: ..\..\..\bsp\boards\board.h
+.\objects\03oos_openwsn.o: ..\..\..\bsp\boards\scum\board_info.h
+.\objects\03oos_openwsn.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\objects\03oos_openwsn.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\objects\03oos_openwsn.o: ..\..\..\bsp\boards\toolchain_defs.h
+.\objects\03oos_openwsn.o: ..\..\..\kernel\scheduler.h
+.\objects\03oos_openwsn.o: ..\..\..\inc\opendefs.h
+.\objects\03oos_openwsn.o: ..\..\..\openstack\openstack.h
