@@ -2,12 +2,14 @@
 # -*- coding: utf-8 -*-
 
 # COMMAND LINE ARGS SPECIFICATION
-# Example format: python 01bsp_radio_rx.py arg1
+# Example format: python 01bsp_radio_rx.py arg1 arg2
 # arg1 = serial port path.
 #   Ex: MacOS: '/dev/tty.usbserial-14147301'
 #   Ex: Linux: '/dev/ttyUSB1'
 #   Ex: Windows: 'COM1'
-# todo add arg2 spec
+# ARG 2 is either "ASCII" or "RAW". If the bytes of the packet are set manually
+# then RAW is probably the right format to use. Is you use sprintf from SCuM
+# to write into the packet, then ASCII is probably the right one to use.
 
 from __future__ import print_function # use python3 print from python2
 
